@@ -22,7 +22,7 @@ class SessionManager:
             return
         self._initialized = True
         self.sessions: Dict[str, Dict[str, Any]] = {}
-        self.sessions_file = 'd:/Desktop/计算机试卷/sessions.json'
+        self.sessions_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'sessions.json')
         self._load_sessions()
     
     def _load_sessions(self):
