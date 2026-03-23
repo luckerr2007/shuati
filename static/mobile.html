@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="theme-color" content="#1a73e8">
+    <title>计算机职业技能测试</title>
+    <link rel="stylesheet" href="mobile.css">
+</head>
+<body>
+    <div id="app">
+        <div id="welcome-page" class="page active">
+            <div class="mobile-container">
+                <div class="mobile-header">
+                    <div class="school-logo">🎓</div>
+                    <h1 class="mobile-title">亳州职业技术学院</h1>
+                    <h2 class="mobile-subtitle">2026年职业技能测试</h2>
+                    <p class="mobile-category">类别六：计算机应用技术</p>
+                </div>
+                
+                <div class="mobile-card">
+                    <div class="card-header">
+                        <span class="card-icon">📋</span>
+                        <span>考试说明</span>
+                    </div>
+                    <div class="info-grid">
+                        <div class="info-item">
+                            <span class="info-label">题目数量</span>
+                            <span class="info-value">100题</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="info-label">满分分数</span>
+                            <span class="info-value">300分</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="info-label">考试时长</span>
+                            <span class="info-value">90分钟</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="info-label">每题分值</span>
+                            <span class="info-value">3分</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mobile-card">
+                    <div class="card-header">
+                        <span class="card-icon">📊</span>
+                        <span>题库统计</span>
+                    </div>
+                    <div class="stats-row">
+                        <div class="stat-box">
+                            <span class="stat-num" id="total-questions">--</span>
+                            <span class="stat-text">总题数</span>
+                        </div>
+                        <div class="stat-box success">
+                            <span class="stat-num" id="mastered-count">--</span>
+                            <span class="stat-text">已掌握</span>
+                        </div>
+                        <div class="stat-box danger">
+                            <span class="stat-num" id="focus-count">--</span>
+                            <span class="stat-text">需加强</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mobile-card">
+                    <div class="card-header">
+                        <span class="card-icon">📝</span>
+                        <span>文化素质分数</span>
+                    </div>
+                    <div class="score-input-wrapper">
+                        <input type="number" id="culture-score" min="0" max="300" value="200" placeholder="0-300">
+                        <span class="score-unit">分</span>
+                    </div>
+                    <p class="score-tip">满分300分，用于计算综合总分</p>
+                </div>
+                
+                <button class="mobile-btn primary-btn" id="start-btn">
+                    <span class="btn-icon">▶</span>
+                    <span>开始答题</span>
+                </button>
+            </div>
+        </div>
+        
+        <div id="exam-page" class="page">
+            <div class="exam-header">
+                <div class="exam-top-bar">
+                    <span class="exam-title">职业技能测试</span>
+                    <span class="timer" id="timer">00:00</span>
+                </div>
+                <div class="exam-progress-bar">
+                    <div class="progress-fill" id="progress-fill"></div>
+                </div>
+                <div class="exam-info">
+                    <span id="question-progress">第1题</span>
+                    <span id="answered-count">已答0题</span>
+                </div>
+            </div>
+            
+            <div class="question-area">
+                <div class="question-tags">
+                    <span class="tag difficulty-tag" id="difficulty-tag">中等</span>
+                    <span class="tag category-tag" id="category-tag">计算机基础</span>
+                </div>
+                <div class="question-content" id="question-text">
+                    题目内容加载中...
+                </div>
+                <div class="options-area" id="options-container"></div>
+            </div>
+            
+            <div class="nav-drawer" id="nav-drawer">
+                <div class="nav-drawer-header">
+                    <span>题目导航</span>
+                    <button class="close-drawer-btn" id="close-drawer">×</button>
+                </div>
+                <div class="nav-grid" id="nav-grid"></div>
+            </div>
+            
+            <div class="nav-overlay" id="nav-overlay"></div>
+            
+            <div class="bottom-nav">
+                <button class="nav-btn" id="nav-toggle">
+                    <span class="nav-icon">📋</span>
+                    <span>导航</span>
+                </button>
+                <button class="nav-btn" id="prev-btn">
+                    <span class="nav-icon">◀</span>
+                    <span>上一题</span>
+                </button>
+                <button class="nav-btn" id="next-btn">
+                    <span class="nav-icon">▶</span>
+                    <span>下一题</span>
+                </button>
+                <button class="nav-btn submit-btn" id="submit-btn">
+                    <span class="nav-icon">✓</span>
+                    <span>交卷</span>
+                </button>
+            </div>
+        </div>
+        
+        <div id="result-page" class="page">
+            <div class="result-header">
+                <div class="result-emoji" id="result-emoji">🎉</div>
+                <h2 class="result-title">答题结果</h2>
+            </div>
+            
+            <div class="result-score-card">
+                <div class="score-circle">
+                    <span class="score-number" id="total-score">--</span>
+                    <span class="score-label">分</span>
+                </div>
+                <div class="result-stats-grid">
+                    <div class="result-stat-item">
+                        <span class="result-stat-value" id="correct-count">--</span>
+                        <span class="result-stat-label">正确</span>
+                    </div>
+                    <div class="result-stat-item">
+                        <span class="result-stat-value" id="wrong-count">--</span>
+                        <span class="result-stat-label">错误</span>
+                    </div>
+                    <div class="result-stat-item">
+                        <span class="result-stat-value" id="accuracy">--%</span>
+                        <span class="result-stat-label">正确率</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="mobile-card total-score-card">
+                <div class="card-header">
+                    <span class="card-icon">🏆</span>
+                    <span>综合分数</span>
+                </div>
+                <div class="combined-score-row">
+                    <div class="score-item">
+                        <span class="score-name">文化素质</span>
+                        <span class="score-val" id="culture-score-display">200</span>
+                    </div>
+                    <span class="score-plus">+</span>
+                    <div class="score-item">
+                        <span class="score-name">职业技能</span>
+                        <span class="score-val" id="skill-score-display">--</span>
+                    </div>
+                    <span class="score-equals">=</span>
+                    <div class="score-item total">
+                        <span class="score-name">总分</span>
+                        <span class="score-val" id="combined-score">--</span>
+                    </div>
+                </div>
+                <div class="comparison-section" id="comparison-result"></div>
+            </div>
+            
+            <div class="mobile-card">
+                <div class="card-header">
+                    <span class="card-icon">📈</span>
+                    <span>分类统计</span>
+                </div>
+                <div class="category-stats" id="category-stats"></div>
+                <div class="difficulty-stats" id="difficulty-stats"></div>
+                <div class="weak-section" id="weak-categories"></div>
+            </div>
+            
+            <div class="result-actions">
+                <button class="mobile-btn secondary-btn" id="view-wrong-btn">
+                    <span class="btn-icon">📝</span>
+                    <span>查看错题</span>
+                </button>
+                <button class="mobile-btn primary-btn" id="restart-btn">
+                    <span class="btn-icon">🔄</span>
+                    <span>重新开始</span>
+                </button>
+            </div>
+        </div>
+        
+        <div id="wrong-page" class="page">
+            <div class="wrong-header">
+                <button class="back-btn" id="back-result-btn">◀</button>
+                <h2>错题查看</h2>
+            </div>
+            <div class="wrong-list" id="wrong-list"></div>
+        </div>
+        
+        <div id="loading-overlay" class="loading-overlay">
+            <div class="loading-spinner"></div>
+            <p class="loading-text">加载中...</p>
+        </div>
+    </div>
+    
+    <script src="mobile.js"></script>
+</body>
+</html>

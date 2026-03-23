@@ -1,0 +1,4031 @@
+[
+  {
+    "id": 1456,
+    "question": "在国际单位制中，长度的基本单位是：",
+    "options": {
+      "A": "厘米",
+      "B": "米",
+      "C": "千米",
+      "D": "毫米"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1457,
+    "question": "在国际单位制中，电流的基本单位是：",
+    "options": {
+      "A": "伏特",
+      "B": "欧姆",
+      "C": "安培",
+      "D": "瓦特"
+    },
+    "answer": "C",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1458,
+    "question": "频率的国际单位是：",
+    "options": {
+      "A": "牛顿",
+      "B": "赫兹",
+      "C": "帕斯卡",
+      "D": "焦耳"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1459,
+    "question": "在国际单位制中，质量的单位是：",
+    "options": {
+      "A": "牛顿",
+      "B": "千克",
+      "C": "克",
+      "D": "吨"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1460,
+    "question": "电压的国际单位是：",
+    "options": {
+      "A": "安培",
+      "B": "欧姆",
+      "C": "伏特",
+      "D": "瓦特"
+    },
+    "answer": "C",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1461,
+    "question": "力的国际单位是：",
+    "options": {
+      "A": "帕斯卡",
+      "B": "牛顿",
+      "C": "焦耳",
+      "D": "瓦特"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1462,
+    "question": "电容的国际单位是：",
+    "options": {
+      "A": "法拉",
+      "B": "伏特",
+      "C": "安培",
+      "D": "欧姆"
+    },
+    "answer": "A",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1463,
+    "question": "压强的国际单位是：",
+    "options": {
+      "A": "牛顿",
+      "B": "焦耳",
+      "C": "帕斯卡",
+      "D": "瓦特"
+    },
+    "answer": "C",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1464,
+    "question": "电阻的国际单位是：",
+    "options": {
+      "A": "安培",
+      "B": "伏特",
+      "C": "欧姆",
+      "D": "瓦特"
+    },
+    "answer": "C",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1465,
+    "question": "物质的量的国际单位是：",
+    "options": {
+      "A": "千克",
+      "B": "摩尔",
+      "C": "升",
+      "D": "克"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1466,
+    "question": "温度的国际单位是：",
+    "options": {
+      "A": "摄氏度",
+      "B": "华氏度",
+      "C": "开尔文",
+      "D": "度"
+    },
+    "answer": "C",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1467,
+    "question": "功率的国际单位是：",
+    "options": {
+      "A": "焦耳",
+      "B": "牛顿",
+      "C": "瓦特",
+      "D": "伏特"
+    },
+    "answer": "C",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1468,
+    "question": "发明第一架天文望远镜的科学家是：",
+    "options": {
+      "A": "牛顿",
+      "B": "伽利略",
+      "C": "哥白尼",
+      "D": "开普勒"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1469,
+    "question": "第一次工业革命的代表性成就是：",
+    "options": {
+      "A": "电力应用",
+      "B": "蒸汽机",
+      "C": "电子计算机",
+      "D": "互联网"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1470,
+    "question": "第二次技术革命的代表人物及其成就是：",
+    "options": {
+      "A": "瓦特—蒸汽机",
+      "B": "爱迪生—电力应用",
+      "C": "冯·诺依曼—电子计算机",
+      "D": "贝尔—电话"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1471,
+    "question": "第三次技术革命的代表人物及其成就是：",
+    "options": {
+      "A": "瓦特—蒸汽机",
+      "B": "爱迪生—电力应用",
+      "C": "冯·诺依曼—电子计算机",
+      "D": "贝尔—电话"
+    },
+    "answer": "C",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1472,
+    "question": "声音在空气中的传播速度约为：",
+    "options": {
+      "A": "300米/秒",
+      "B": "340米/秒",
+      "C": "380米/秒",
+      "D": "400米/秒"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1473,
+    "question": "物质存在的三种状态是：",
+    "options": {
+      "A": "固体、液体、等离子体",
+      "B": "固体、液体、气体",
+      "C": "晶体、非晶体、液体",
+      "D": "固态、液态、等离子态"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1474,
+    "question": "太阳光是由以下哪些颜色组成的？",
+    "options": {
+      "A": "红、黄、蓝",
+      "B": "红、橙、黄、绿、蓝、靛、紫",
+      "C": "红、绿、蓝",
+      "D": "红、黄、蓝、白"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1475,
+    "question": "光的三原色是：",
+    "options": {
+      "A": "红、黄、蓝",
+      "B": "红、绿、蓝",
+      "C": "红、橙、黄",
+      "D": "红、白、蓝"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1476,
+    "question": "颜料的三原色是：",
+    "options": {
+      "A": "红、绿、蓝",
+      "B": "红、黄、蓝",
+      "C": "红、橙、黄",
+      "D": "红、白、蓝"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1477,
+    "question": "不可见光包括：",
+    "options": {
+      "A": "红光和紫光",
+      "B": "红外线和紫外线",
+      "C": "蓝光和绿光",
+      "D": "黄光和橙光"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1478,
+    "question": "光在真空中的传播速度约为：",
+    "options": {
+      "A": "3×10⁶米/秒",
+      "B": "3×10⁷米/秒",
+      "C": "3×10⁸米/秒",
+      "D": "3×10⁹米/秒"
+    },
+    "answer": "C",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1479,
+    "question": "扩散现象是指：",
+    "options": {
+      "A": "物质从高温处向低温处移动",
+      "B": "不同物质相互接触，彼此进入对方的现象",
+      "C": "物质从高浓度向低浓度移动",
+      "D": "物质受热膨胀"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1480,
+    "question": "原子的结构是：",
+    "options": {
+      "A": "原子由分子和电子组成",
+      "B": "原子由原子核和核外电子组成",
+      "C": "原子由质子和中子组成",
+      "D": "原子由原子核和质子组成"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1481,
+    "question": "原子核是由什么组成的？",
+    "options": {
+      "A": "电子和中子",
+      "B": "质子和电子",
+      "C": "质子和中子",
+      "D": "电子和光子"
+    },
+    "answer": "C",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1482,
+    "question": "光年是什么单位？",
+    "options": {
+      "A": "时间单位",
+      "B": "长度单位",
+      "C": "速度单位",
+      "D": "质量单位"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1483,
+    "question": "一个天文单位是指：",
+    "options": {
+      "A": "地球到月球的距离",
+      "B": "地球到太阳的距离",
+      "C": "太阳到火星的距离",
+      "D": "光在一年内行进的距离"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1484,
+    "question": "力的三要素是：",
+    "options": {
+      "A": "大小、方向、作用点",
+      "B": "大小、方向、速度",
+      "C": "方向、作用点、时间",
+      "D": "大小、速度、时间"
+    },
+    "answer": "A",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1485,
+    "question": "重力的方向是：",
+    "options": {
+      "A": "垂直向下",
+      "B": "竖直向下",
+      "C": "水平向前",
+      "D": "斜向下"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1486,
+    "question": "增大有益摩擦的方法是：",
+    "options": {
+      "A": "减小压力，使接触面光滑",
+      "B": "增大压力，使接触面粗糙",
+      "C": "减小压力，使接触面粗糙",
+      "D": "增大压力，使接触面光滑"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1487,
+    "question": "证明大气压强存在的著名实验是：",
+    "options": {
+      "A": "托里拆利实验",
+      "B": "马德堡半球实验",
+      "C": "帕斯卡实验",
+      "D": "阿基米德实验"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1488,
+    "question": "关于液体沸点与气压的关系，下列说法正确的是：",
+    "options": {
+      "A": "气压增大，沸点降低",
+      "B": "气压减小，沸点升高",
+      "C": "气压增大，沸点升高",
+      "D": "沸点与气压无关"
+    },
+    "answer": "C",
+    "category": "物理常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1489,
+    "question": "阿基米德原理的内容是：",
+    "options": {
+      "A": "浸入液体里的物体受到向上的浮力，浮力大小等于物体的重力",
+      "B": "浸入液体里的物体受到向上的浮力，浮力大小等于它排开的液体受到的重力",
+      "C": "浸入液体里的物体受到向下的压力",
+      "D": "浮力大小与液体密度无关"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1490,
+    "question": "物体保持运动状态不变的性质叫做：",
+    "options": {
+      "A": "惯性",
+      "B": "惯性定律",
+      "C": "牛顿第二定律",
+      "D": "万有引力"
+    },
+    "answer": "A",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1491,
+    "question": "牛顿第一定律也叫做：",
+    "options": {
+      "A": "万有引力定律",
+      "B": "惯性定律",
+      "C": "作用力与反作用力定律",
+      "D": "能量守恒定律"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1492,
+    "question": "下列属于导体的是：",
+    "options": {
+      "A": "橡胶、玻璃",
+      "B": "金属、人体",
+      "C": "塑料、陶瓷",
+      "D": "纯水、油"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1493,
+    "question": "下列属于绝缘体的是：",
+    "options": {
+      "A": "金属、人体",
+      "B": "大地、盐水",
+      "C": "橡胶、玻璃",
+      "D": "酸、碱溶液"
+    },
+    "answer": "C",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1494,
+    "question": "汽车雾灯选择黄色的原因是：",
+    "options": {
+      "A": "黄色光线最亮",
+      "B": "黄色穿透能力较强",
+      "C": "黄色最省电",
+      "D": "黄色最柔和"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1495,
+    "question": "低碳经济的核心是：",
+    "options": {
+      "A": "传统化石能源",
+      "B": "新能源技术",
+      "C": "核能技术",
+      "D": "煤炭清洁利用"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1496,
+    "question": "5G网络的理论下行速度约为：",
+    "options": {
+      "A": "1Gb/s",
+      "B": "10Gb/s",
+      "C": "100Gb/s",
+      "D": "1000Gb/s"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1497,
+    "question": "安检利用的是哪种射线的穿透能力？",
+    "options": {
+      "A": "红外线",
+      "B": "紫外线",
+      "C": "X射线",
+      "D": "伽马射线"
+    },
+    "answer": "C",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1498,
+    "question": "汽车后的金属链条的作用是：",
+    "options": {
+      "A": "装饰美观",
+      "B": "增加重量",
+      "C": "将静电传到地面",
+      "D": "减少噪音"
+    },
+    "answer": "C",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1499,
+    "question": "往保温瓶里倒开水时，根据声音可以判断水量高低，这是因为：",
+    "options": {
+      "A": "水量影响声音的响度",
+      "B": "空气柱长度影响音调",
+      "C": "水量影响声音的音色",
+      "D": "温度影响声音传播"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1500,
+    "question": "菜刀的刀刃薄是为了：",
+    "options": {
+      "A": "减小压力",
+      "B": "增大压力",
+      "C": "减小压强",
+      "D": "增大压强"
+    },
+    "answer": "D",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1501,
+    "question": "菜刀的刀刃有油是为了：",
+    "options": {
+      "A": "增大摩擦",
+      "B": "减小摩擦",
+      "C": "增大压强",
+      "D": "减小压强"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1502,
+    "question": "菜刀柄、锅铲柄把手有凹凸花纹是为了：",
+    "options": {
+      "A": "美观",
+      "B": "减小摩擦",
+      "C": "增大摩擦",
+      "D": "减小压强"
+    },
+    "answer": "C",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1503,
+    "question": "火铲送煤利用的是：",
+    "options": {
+      "A": "重力",
+      "B": "惯性",
+      "C": "浮力",
+      "D": "摩擦力"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1504,
+    "question": "对人体来说安全电压是：",
+    "options": {
+      "A": "12V",
+      "B": "24V",
+      "C": "36V",
+      "D": "48V"
+    },
+    "answer": "C",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1505,
+    "question": "下列现象中，可以用光的直线传播解释的是：",
+    "options": {
+      "A": "海市蜃楼",
+      "B": "池水映明月",
+      "C": "影子的形成",
+      "D": "雨后彩虹"
+    },
+    "answer": "C",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1506,
+    "question": "纳米是什么单位？",
+    "options": {
+      "A": "时间单位",
+      "B": "长度单位",
+      "C": "质量单位",
+      "D": "速度单位"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1507,
+    "question": "我国第一颗原子弹爆炸成功是在哪一年？",
+    "options": {
+      "A": "1960年",
+      "B": "1964年",
+      "C": "1967年",
+      "D": "1970年"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1508,
+    "question": "关于磁场和磁感线，下列说法正确的是：",
+    "options": {
+      "A": "磁场是假想的，磁感线是真实存在的",
+      "B": "磁场是真实存在的，磁感线是假想的",
+      "C": "磁场和磁感线都是真实存在的",
+      "D": "磁场和磁感线都是假想的"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1509,
+    "question": "关于地球磁场，下列说法正确的是：",
+    "options": {
+      "A": "地磁南极在地理南极附近",
+      "B": "地磁南极在地理北极附近",
+      "C": "地磁北极在地理北极附近",
+      "D": "地磁与地理完全重合"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1510,
+    "question": "燕子低飞预示着下雨，这是因为：",
+    "options": {
+      "A": "燕子怕雨",
+      "B": "雨前空气潮湿，飞虫翅膀潮湿不能高飞，燕子为觅食也低飞",
+      "C": "燕子喜欢潮湿",
+      "D": "燕子在躲避天敌"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1511,
+    "question": "下雪不冷化雪冷的原因是：",
+    "options": {
+      "A": "下雪是凝华放热过程，化雪是融化吸热过程",
+      "B": "下雪时气温高，化雪时气温低",
+      "C": "雪的温度比水高",
+      "D": "化雪时风力较大"
+    },
+    "answer": "A",
+    "category": "物理常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1512,
+    "question": "真金不怕火炼的原因是：",
+    "options": {
+      "A": "金不会燃烧",
+      "B": "金的熔点高，一般炉火温度达不到金的熔点",
+      "C": "金是惰性金属",
+      "D": "金有特殊的化学性质"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1513,
+    "question": "开水不响，响水不开的原因是：",
+    "options": {
+      "A": "水开时温度太高",
+      "B": "水没开时气泡一涨一缩激起水的震动发出响声，水开时气泡不断涨大出水破裂，振动小",
+      "C": "水开时没有气泡",
+      "D": "水开时声音被蒸汽吸收"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1514,
+    "question": "墙内开花墙外香说明：",
+    "options": {
+      "A": "花香可以传播很远",
+      "B": "分子不停运动",
+      "C": "花香有特殊的传播方式",
+      "D": "墙外空气流通更好"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1515,
+    "question": "破镜不能重圆的原因是：",
+    "options": {
+      "A": "镜子碎片形状不规则",
+      "B": "分子之间距离大，引力几乎为零",
+      "C": "镜子材料特殊",
+      "D": "碎片之间有空气阻隔"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1516,
+    "question": "水中捞月一场空说明：",
+    "options": {
+      "A": "月亮不能在水中",
+      "B": "水面相当于平面镜，水中月亮是虚像",
+      "C": "水太深",
+      "D": "月亮太远"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1517,
+    "question": "池水映明月，潭清疑水浅的原因是：",
+    "options": {
+      "A": "水的折射率大",
+      "B": "光的折射导致水看上去浅了",
+      "C": "水的反射",
+      "D": "光的直线传播"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1518,
+    "question": "坐井观天，所见甚少说明：",
+    "options": {
+      "A": "井口太小",
+      "B": "光的直线传播",
+      "C": "光的折射",
+      "D": "光的反射"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1519,
+    "question": "一滴水可见太阳说明：",
+    "options": {
+      "A": "水能反射光",
+      "B": "凸透镜原理",
+      "C": "水的透明度高",
+      "D": "太阳光很强"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1520,
+    "question": "照相的底片颠倒黑白的原因是：",
+    "options": {
+      "A": "底片材料特殊",
+      "B": "凸透镜两倍焦距外成缩小倒立的像",
+      "C": "冲洗过程的问题",
+      "D": "相机设计问题"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1521,
+    "question": "立竿见影说明：",
+    "options": {
+      "A": "光的反射",
+      "B": "光的折射",
+      "C": "光的直线传播",
+      "D": "光的散射"
+    },
+    "answer": "C",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1522,
+    "question": "四两拨千斤利用的是：",
+    "options": {
+      "A": "滑轮原理",
+      "B": "杠杆原理",
+      "C": "斜面原理",
+      "D": "轮轴原理"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1523,
+    "question": "一个巴掌拍不响说明：",
+    "options": {
+      "A": "力需要两个物体",
+      "B": "力的作用是相互的",
+      "C": "力有大小",
+      "D": "力有方向"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1524,
+    "question": "坐地日行八万里指的是：",
+    "options": {
+      "A": "地球公转",
+      "B": "地球自转一圈约为4万千米",
+      "C": "人的行走",
+      "D": "地球的形状"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1525,
+    "question": "如坐针毡说明：",
+    "options": {
+      "A": "针很尖",
+      "B": "受压面积越小，压强越大",
+      "C": "针的数量多",
+      "D": "人的重量大"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1526,
+    "question": "水往低处流的原因是：",
+    "options": {
+      "A": "水的密度大",
+      "B": "重力影响",
+      "C": "水的流动性",
+      "D": "大气压强"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1527,
+    "question": "水上的葫芦沉不下去的原因是：",
+    "options": {
+      "A": "葫芦是空心的",
+      "B": "葫芦密度小于水的密度",
+      "C": "葫芦受到的浮力大",
+      "D": "葫芦有特殊结构"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1528,
+    "question": "石英钟电量耗尽时，秒针会停在哪个位置？",
+    "options": {
+      "A": "3的位置",
+      "B": "6的位置",
+      "C": "9的位置",
+      "D": "12的位置"
+    },
+    "answer": "C",
+    "category": "物理常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1529,
+    "question": "吊扇在转动时，悬挂点受的拉力比未转动时要小，这是因为：",
+    "options": {
+      "A": "风扇重量减轻",
+      "B": "转动时空气对其有向上的反作用力",
+      "C": "风扇速度变快",
+      "D": "空气阻力减小"
+    },
+    "answer": "B",
+    "category": "物理常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1530,
+    "question": "物理变化的特点是：",
+    "options": {
+      "A": "有新物质生成",
+      "B": "没有新物质生成，只是物质形态发生变化",
+      "C": "一定放热",
+      "D": "一定发光"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1531,
+    "question": "化学变化常表现为：",
+    "options": {
+      "A": "只是形态变化",
+      "B": "放热、发光、放出气体、产生沉淀等",
+      "C": "只是颜色变化",
+      "D": "只是温度变化"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1532,
+    "question": "下列属于物理性质的是：",
+    "options": {
+      "A": "氧化性",
+      "B": "颜色、状态、气味、熔点",
+      "C": "还原性",
+      "D": "可燃性"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1533,
+    "question": "下列属于化学性质的是：",
+    "options": {
+      "A": "颜色、状态",
+      "B": "熔点、密度",
+      "C": "氧化性、还原性、可燃性",
+      "D": "硬度、溶解性"
+    },
+    "answer": "C",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1534,
+    "question": "空气中氧气约占总体积的：",
+    "options": {
+      "A": "五分之一",
+      "B": "四分之一",
+      "C": "三分之一",
+      "D": "二分之一"
+    },
+    "answer": "A",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1535,
+    "question": "氧气在固态、液态时呈什么颜色？",
+    "options": {
+      "A": "无色",
+      "B": "白色",
+      "C": "淡蓝色",
+      "D": "红色"
+    },
+    "answer": "C",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1536,
+    "question": "保持物质化学性质的最小粒子是：",
+    "options": {
+      "A": "原子",
+      "B": "分子",
+      "C": "离子",
+      "D": "电子"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1537,
+    "question": "化学变化中的最小粒子是：",
+    "options": {
+      "A": "分子",
+      "B": "原子",
+      "C": "离子",
+      "D": "质子"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1538,
+    "question": "元素周期表是由哪位科学家总结的？",
+    "options": {
+      "A": "牛顿",
+      "B": "爱因斯坦",
+      "C": "门捷列夫",
+      "D": "居里夫人"
+    },
+    "answer": "C",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1539,
+    "question": "硬水是指：",
+    "options": {
+      "A": "不含钙镁化合物的水",
+      "B": "含有较多可溶性钙、镁化合物的水",
+      "C": "纯净的水",
+      "D": "蒸馏水"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1540,
+    "question": "鉴别硬水和软水可以用：",
+    "options": {
+      "A": "食盐水",
+      "B": "糖水",
+      "C": "肥皂水",
+      "D": "醋"
+    },
+    "answer": "C",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1541,
+    "question": "金刚石是天然存在的：",
+    "options": {
+      "A": "最软的物质",
+      "B": "最硬的物质",
+      "C": "最轻的物质",
+      "D": "最透明的物质"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1542,
+    "question": "石墨的特点是：",
+    "options": {
+      "A": "质地坚硬",
+      "B": "质地柔软，能导电",
+      "C": "不能导电",
+      "D": "透明"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1543,
+    "question": "固体二氧化碳被称为：",
+    "options": {
+      "A": "冰",
+      "B": "干冰",
+      "C": "霜",
+      "D": "雪"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1544,
+    "question": "干冰可以用于：",
+    "options": {
+      "A": "燃烧",
+      "B": "人工降雨",
+      "C": "供人呼吸",
+      "D": "助燃"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1545,
+    "question": "煤炭不充分燃烧会产生什么导致中毒？",
+    "options": {
+      "A": "二氧化碳",
+      "B": "一氧化碳",
+      "C": "二氧化硫",
+      "D": "氮气"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1546,
+    "question": "大多数金属在常温下呈什么状态？",
+    "options": {
+      "A": "液态",
+      "B": "气态",
+      "C": "固态",
+      "D": "等离子态"
+    },
+    "answer": "C",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1547,
+    "question": "常温下呈液态的金属是：",
+    "options": {
+      "A": "铁",
+      "B": "铜",
+      "C": "汞",
+      "D": "铝"
+    },
+    "answer": "C",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1548,
+    "question": "呈紫红色的金属是：",
+    "options": {
+      "A": "金",
+      "B": "银",
+      "C": "铜",
+      "D": "铁"
+    },
+    "answer": "C",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1549,
+    "question": "呈黄色的金属是：",
+    "options": {
+      "A": "铜",
+      "B": "银",
+      "C": "铁",
+      "D": "金"
+    },
+    "answer": "D",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1550,
+    "question": "大脖子病是因为缺少哪种元素？",
+    "options": {
+      "A": "钙",
+      "B": "铁",
+      "C": "碘",
+      "D": "锌"
+    },
+    "answer": "C",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1551,
+    "question": "用来包香烟和糖果的金属箔是：",
+    "options": {
+      "A": "铁",
+      "B": "铜",
+      "C": "铝",
+      "D": "锡"
+    },
+    "answer": "C",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1552,
+    "question": "金匠偷工减料时使用的王水是：",
+    "options": {
+      "A": "浓盐酸和浓硫酸的混合物",
+      "B": "浓盐酸和浓硝酸的混合物",
+      "C": "浓硫酸和浓硝酸的混合物",
+      "D": "稀盐酸和稀硝酸的混合物"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1553,
+    "question": "黑白相片上的黑色物质是：",
+    "options": {
+      "A": "碳",
+      "B": "银",
+      "C": "铁",
+      "D": "铅"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1554,
+    "question": "软骨病是因为缺少哪种元素？",
+    "options": {
+      "A": "铁",
+      "B": "钙",
+      "C": "碘",
+      "D": "锌"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1555,
+    "question": "氩气灯被称为人造小太阳，其中充入的是：",
+    "options": {
+      "A": "氩气",
+      "B": "氙气",
+      "C": "氖气",
+      "D": "氦气"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1556,
+    "question": "医用酒精的浓度是：",
+    "options": {
+      "A": "65%",
+      "B": "75%",
+      "C": "85%",
+      "D": "95%"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1557,
+    "question": "生理盐水中氯化钠的含量是：",
+    "options": {
+      "A": "0.5%",
+      "B": "0.9%",
+      "C": "1.5%",
+      "D": "3%"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1558,
+    "question": "发令枪打响后产生的白烟是：",
+    "options": {
+      "A": "二氧化碳",
+      "B": "五氧化二磷",
+      "C": "二氧化硫",
+      "D": "水蒸气"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1559,
+    "question": "导致温室效应的主要气体是：",
+    "options": {
+      "A": "氧气",
+      "B": "氮气",
+      "C": "二氧化碳",
+      "D": "氢气"
+    },
+    "answer": "C",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1560,
+    "question": "酸雨是指pH值小于多少的雨雪？",
+    "options": {
+      "A": "4.6",
+      "B": "5.6",
+      "C": "6.6",
+      "D": "7.0"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1561,
+    "question": "酸雨形成的主要原因是：",
+    "options": {
+      "A": "二氧化碳排放",
+      "B": "二氧化硫与二氧化氮的排放",
+      "C": "氧气排放",
+      "D": "氮气排放"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1562,
+    "question": "五金店里的铁丝上面镀了一层什么金属防腐？",
+    "options": {
+      "A": "铜",
+      "B": "铝",
+      "C": "锌",
+      "D": "锡"
+    },
+    "answer": "C",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1563,
+    "question": "不锈钢是在炼钢过程中加入了：",
+    "options": {
+      "A": "锌和铝",
+      "B": "铬和镍",
+      "C": "铜和锡",
+      "D": "铅和汞"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1564,
+    "question": "医院检查食道、胃部的钡餐制作物质是：",
+    "options": {
+      "A": "氯化钡",
+      "B": "硫酸钡",
+      "C": "硝酸钡",
+      "D": "碳酸钡"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1565,
+    "question": "侯氏制碱法制得的碱的化学名称是：",
+    "options": {
+      "A": "碳酸氢钠",
+      "B": "碳酸钠",
+      "C": "氢氧化钠",
+      "D": "氯化钠"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1566,
+    "question": "液化石油气的主要成分是：",
+    "options": {
+      "A": "甲烷",
+      "B": "丙烷和丁烷",
+      "C": "乙烯",
+      "D": "乙炔"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1567,
+    "question": "天然气的主要成分是：",
+    "options": {
+      "A": "丙烷",
+      "B": "丁烷",
+      "C": "甲烷",
+      "D": "乙烷"
+    },
+    "answer": "C",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1568,
+    "question": "录音磁带上面的磁性材料主要成分是：",
+    "options": {
+      "A": "氧化铁",
+      "B": "四氧化三铁",
+      "C": "三氧化二铁",
+      "D": "硫化铁"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1569,
+    "question": "古代画作、书法能保存至今是因为墨汁的主要成分是：",
+    "options": {
+      "A": "铁",
+      "B": "碳",
+      "C": "铅",
+      "D": "汞"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1570,
+    "question": "字画上红印泥的主要成分是：",
+    "options": {
+      "A": "氧化铁",
+      "B": "硫化汞（朱砂）",
+      "C": "氧化汞",
+      "D": "硫化铁"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1571,
+    "question": "24K金表示含金量在：",
+    "options": {
+      "A": "90%以上",
+      "B": "95%以上",
+      "C": "99%以上",
+      "D": "100%"
+    },
+    "answer": "C",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1572,
+    "question": "烟草中危害最大的物质是：",
+    "options": {
+      "A": "焦油",
+      "B": "尼古丁与苯并芘",
+      "C": "一氧化碳",
+      "D": "二氧化碳"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1573,
+    "question": "给潜水艇提供氧气的物质是：",
+    "options": {
+      "A": "氧气瓶",
+      "B": "过氧化钠",
+      "C": "高锰酸钾",
+      "D": "双氧水"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1574,
+    "question": "变色眼镜在太阳光下能变色，是因为在玻璃中加入了：",
+    "options": {
+      "A": "氯化银和氧化铜",
+      "B": "卤化银晶体和氧化铜",
+      "C": "硝酸银和氧化铜",
+      "D": "硫酸铜"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1575,
+    "question": "汽车防冻液的主要成分是：",
+    "options": {
+      "A": "乙醇",
+      "B": "乙二醇",
+      "C": "丙三醇",
+      "D": "甲醇"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1576,
+    "question": "医院中用的灰锰氧或PP粉是：",
+    "options": {
+      "A": "高锰酸钾",
+      "B": "过氧化氢",
+      "C": "碘酒",
+      "D": "酒精"
+    },
+    "answer": "A",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1577,
+    "question": "水壶中水垢的主要成分是：",
+    "options": {
+      "A": "氯化钠和碳酸钠",
+      "B": "碳酸钙和氢氧化镁",
+      "C": "硫酸钙和硫酸镁",
+      "D": "氯化钙和氯化镁"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1578,
+    "question": "不能用来酿酒的作物是：",
+    "options": {
+      "A": "玉米",
+      "B": "高粱",
+      "C": "黄豆",
+      "D": "红薯"
+    },
+    "answer": "C",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1579,
+    "question": "运动后全身酸痛是因为肌肉中增加了：",
+    "options": {
+      "A": "碳酸",
+      "B": "乳酸",
+      "C": "醋酸",
+      "D": "盐酸"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1580,
+    "question": "霜降后蔬菜吃起来味道甜美，是因为青菜里的淀粉水解成了：",
+    "options": {
+      "A": "蔗糖",
+      "B": "果糖",
+      "C": "葡萄糖",
+      "D": "麦芽糖"
+    },
+    "answer": "C",
+    "category": "化学常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1581,
+    "question": "文艺演出中，舞台上的烟雾是：",
+    "options": {
+      "A": "水蒸气",
+      "B": "乙二醇和干冰",
+      "C": "二氧化碳",
+      "D": "氮气"
+    },
+    "answer": "B",
+    "category": "化学常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1582,
+    "question": "所有生物生存的基本条件包括：",
+    "options": {
+      "A": "只需要水和空气",
+      "B": "营养物质、阳光、空气、水、适宜的温度、一定的生存空间",
+      "C": "只需要食物和水",
+      "D": "只需要阳光和空气"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1583,
+    "question": "生态系统由哪两部分组成？",
+    "options": {
+      "A": "动物和植物",
+      "B": "生物部分和非生物部分",
+      "C": "生产者和消费者",
+      "D": "阳光和水"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1584,
+    "question": "生态系统中，分解者主要是：",
+    "options": {
+      "A": "绿色植物",
+      "B": "动物",
+      "C": "细菌和真菌",
+      "D": "人类"
+    },
+    "answer": "C",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1585,
+    "question": "最大的生态系统是：",
+    "options": {
+      "A": "森林生态系统",
+      "B": "海洋生态系统",
+      "C": "生物圈",
+      "D": "草原生态系统"
+    },
+    "answer": "C",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1586,
+    "question": "被称为绿色水库的是：",
+    "options": {
+      "A": "海洋生态系统",
+      "B": "森林生态系统",
+      "C": "草原生态系统",
+      "D": "湿地生态系统"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1587,
+    "question": "植物细胞特有的结构是：",
+    "options": {
+      "A": "细胞膜和细胞核",
+      "B": "细胞壁和叶绿体",
+      "C": "细胞质和液泡",
+      "D": "线粒体和核糖体"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1588,
+    "question": "植物细胞内的能量转换器有：",
+    "options": {
+      "A": "只有线粒体",
+      "B": "只有叶绿体",
+      "C": "叶绿体和线粒体",
+      "D": "只有核糖体"
+    },
+    "answer": "C",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1589,
+    "question": "遗传信息存在于细胞的哪个结构中？",
+    "options": {
+      "A": "细胞膜",
+      "B": "细胞质",
+      "C": "细胞核",
+      "D": "细胞壁"
+    },
+    "answer": "C",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1590,
+    "question": "细胞核中遗传信息的载体是：",
+    "options": {
+      "A": "蛋白质",
+      "B": "RNA",
+      "C": "DNA",
+      "D": "酶"
+    },
+    "answer": "C",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1591,
+    "question": "动物和人的四种组织不包括：",
+    "options": {
+      "A": "上皮组织",
+      "B": "结缔组织",
+      "C": "分生组织",
+      "D": "神经组织"
+    },
+    "answer": "C",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1592,
+    "question": "绿色开花植物的六大器官中，属于生殖器官的是：",
+    "options": {
+      "A": "根、茎、叶",
+      "B": "花、果实、种子",
+      "C": "根、花、果实",
+      "D": "茎、叶、种子"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1593,
+    "question": "草履虫的运动依靠：",
+    "options": {
+      "A": "鞭毛",
+      "B": "纤毛",
+      "C": "伪足",
+      "D": "触手"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1594,
+    "question": "呼吸作用主要在细胞的哪个结构中进行？",
+    "options": {
+      "A": "细胞核",
+      "B": "叶绿体",
+      "C": "线粒体",
+      "D": "液泡"
+    },
+    "answer": "C",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1595,
+    "question": "我国每年的植树节是：",
+    "options": {
+      "A": "3月12日",
+      "B": "4月22日",
+      "C": "5月1日",
+      "D": "6月5日"
+    },
+    "answer": "A",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1596,
+    "question": "被称为地球之肺的是：",
+    "options": {
+      "A": "海洋",
+      "B": "热带雨林",
+      "C": "草原",
+      "D": "湿地"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1597,
+    "question": "进化论的建立者是：",
+    "options": {
+      "A": "牛顿",
+      "B": "达尔文",
+      "C": "孟德尔",
+      "D": "巴斯德"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1598,
+    "question": "人类和类人猿的共同祖先是：",
+    "options": {
+      "A": "长臂猿",
+      "B": "黑猩猩",
+      "C": "森林古猿",
+      "D": "大猩猩"
+    },
+    "answer": "C",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1599,
+    "question": "迄今为止已发现的最古老的人类化石是：",
+    "options": {
+      "A": "北京人",
+      "B": "露西少女",
+      "C": "元谋人",
+      "D": "山顶洞人"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1600,
+    "question": "男性主要生殖器官是：",
+    "options": {
+      "A": "前列腺",
+      "B": "睾丸",
+      "C": "输精管",
+      "D": "附睾"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1601,
+    "question": "女性主要生殖器官是：",
+    "options": {
+      "A": "子宫",
+      "B": "输卵管",
+      "C": "卵巢",
+      "D": "阴道"
+    },
+    "answer": "C",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1602,
+    "question": "胚胎和胎儿发育的场所是：",
+    "options": {
+      "A": "卵巢",
+      "B": "输卵管",
+      "C": "子宫",
+      "D": "胎盘"
+    },
+    "answer": "C",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1603,
+    "question": "精子和卵细胞结合形成受精卵的场所是：",
+    "options": {
+      "A": "卵巢",
+      "B": "输卵管",
+      "C": "子宫",
+      "D": "阴道"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1604,
+    "question": "青春期身体发育和智力发育的黄金时期，其第一信号是：",
+    "options": {
+      "A": "性器官发育",
+      "B": "身高突增",
+      "C": "体重增加",
+      "D": "声音变化"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1605,
+    "question": "人体含量最多的物质是：",
+    "options": {
+      "A": "蛋白质",
+      "B": "脂肪",
+      "C": "水",
+      "D": "糖类"
+    },
+    "answer": "C",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1606,
+    "question": "人体能量的主要供应源是：",
+    "options": {
+      "A": "蛋白质",
+      "B": "脂肪",
+      "C": "糖类",
+      "D": "维生素"
+    },
+    "answer": "C",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1607,
+    "question": "人体备用的能源物质是：",
+    "options": {
+      "A": "糖类",
+      "B": "脂肪",
+      "C": "蛋白质",
+      "D": "维生素"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1608,
+    "question": "儿童缺钙易患：",
+    "options": {
+      "A": "贫血",
+      "B": "佝偻病",
+      "C": "夜盲症",
+      "D": "脚气病"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1609,
+    "question": "缺铁会引起：",
+    "options": {
+      "A": "佝偻病",
+      "B": "贫血",
+      "C": "夜盲症",
+      "D": "甲状腺肿大"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1610,
+    "question": "缺维生素A会得：",
+    "options": {
+      "A": "坏血病",
+      "B": "脚气病",
+      "C": "夜盲症",
+      "D": "佝偻病"
+    },
+    "answer": "C",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1611,
+    "question": "缺维生素C会得：",
+    "options": {
+      "A": "夜盲症",
+      "B": "脚气病",
+      "C": "坏血病",
+      "D": "佝偻病"
+    },
+    "answer": "C",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1612,
+    "question": "血细胞中数量最多的是：",
+    "options": {
+      "A": "白细胞",
+      "B": "红细胞",
+      "C": "血小板",
+      "D": "淋巴细胞"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1613,
+    "question": "红细胞偏少说明得了：",
+    "options": {
+      "A": "炎症",
+      "B": "贫血",
+      "C": "血友病",
+      "D": "白血病"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1614,
+    "question": "白细胞偏多说明得了：",
+    "options": {
+      "A": "贫血",
+      "B": "炎症",
+      "C": "血友病",
+      "D": "糖尿病"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1615,
+    "question": "心脏有四个空腔，分别是：",
+    "options": {
+      "A": "左心房、右心房、左心室、右心室",
+      "B": "左心房、左心室、右心房、右心室",
+      "C": "上心房、下心房、上心室、下心室",
+      "D": "前心房、后心房、前心室、后心室"
+    },
+    "answer": "A",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1616,
+    "question": "血液循环的发现者是：",
+    "options": {
+      "A": "达尔文",
+      "B": "哈维",
+      "C": "巴斯德",
+      "D": "孟德尔"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1617,
+    "question": "体循环把什么血变成什么血？",
+    "options": {
+      "A": "静脉血变成动脉血",
+      "B": "动脉血变成静脉血",
+      "C": "动脉血变成动脉血",
+      "D": "静脉血变成静脉血"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1618,
+    "question": "肺循环把什么血变成什么血？",
+    "options": {
+      "A": "静脉血变成动脉血",
+      "B": "动脉血变成静脉血",
+      "C": "动脉血变成动脉血",
+      "D": "静脉血变成静脉血"
+    },
+    "answer": "A",
+    "category": "生物常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1619,
+    "question": "ABO血型系统的发现者是：",
+    "options": {
+      "A": "巴斯德",
+      "B": "卡尔·兰德施泰纳",
+      "C": "达尔文",
+      "D": "孟德尔"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1620,
+    "question": "输血时如果没有同型血，可少量输入什么血型的血？",
+    "options": {
+      "A": "A型",
+      "B": "B型",
+      "C": "AB型",
+      "D": "O型"
+    },
+    "answer": "D",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1621,
+    "question": "大脑的主要功能是：",
+    "options": {
+      "A": "调节心跳、呼吸",
+      "B": "维持身体平衡",
+      "C": "感觉、运动、语言等功能",
+      "D": "分泌激素"
+    },
+    "answer": "C",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1622,
+    "question": "小脑的主要功能是：",
+    "options": {
+      "A": "感觉、运动、语言",
+      "B": "运动协调，维持身体平衡",
+      "C": "调节心跳、呼吸",
+      "D": "分泌激素"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1623,
+    "question": "脑干的主要功能是：",
+    "options": {
+      "A": "感觉、运动、语言",
+      "B": "运动协调",
+      "C": "调节心跳、呼吸、血压等基本生命活动",
+      "D": "维持身体平衡"
+    },
+    "answer": "C",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1624,
+    "question": "幼年缺乏生长激素会患：",
+    "options": {
+      "A": "巨人症",
+      "B": "侏儒症",
+      "C": "肢端肥大症",
+      "D": "甲亢"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1625,
+    "question": "幼年缺乏甲状腺激素会患：",
+    "options": {
+      "A": "甲亢",
+      "B": "呆小症",
+      "C": "侏儒症",
+      "D": "巨人症"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1626,
+    "question": "生物分类的最基本单位是：",
+    "options": {
+      "A": "界",
+      "B": "门",
+      "C": "科",
+      "D": "种"
+    },
+    "answer": "D",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1627,
+    "question": "青蛙的发育属于：",
+    "options": {
+      "A": "直接发育",
+      "B": "变态发育",
+      "C": "卵生发育",
+      "D": "胎生发育"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1628,
+    "question": "大鲵又称什么？",
+    "options": {
+      "A": "娃娃鱼",
+      "B": "美人鱼",
+      "C": "中华鲟",
+      "D": "白鳍豚"
+    },
+    "answer": "A",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1629,
+    "question": "地球大约于多少亿年前形成？",
+    "options": {
+      "A": "36亿年",
+      "B": "46亿年",
+      "C": "56亿年",
+      "D": "66亿年"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1630,
+    "question": "原始大气中没有：",
+    "options": {
+      "A": "水蒸气",
+      "B": "甲烷",
+      "C": "氧气",
+      "D": "氨气"
+    },
+    "answer": "C",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1631,
+    "question": "生物进化的主要证据是：",
+    "options": {
+      "A": "胚胎",
+      "B": "化石",
+      "C": "DNA",
+      "D": "蛋白质"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1632,
+    "question": "生物进化的根本原因是：",
+    "options": {
+      "A": "人工选择",
+      "B": "自然选择",
+      "C": "基因突变",
+      "D": "环境变化"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1633,
+    "question": "四大生物工程不包括：",
+    "options": {
+      "A": "基因工程",
+      "B": "细胞工程",
+      "C": "克隆工程",
+      "D": "酶工程"
+    },
+    "answer": "C",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1634,
+    "question": "胃液的pH值约为：",
+    "options": {
+      "A": "6.6-7.1",
+      "B": "7.35-7.45",
+      "C": "0.9-1.5",
+      "D": "6.8-7.4"
+    },
+    "answer": "C",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1635,
+    "question": "种瓜得瓜，种豆得豆说明生物的什么现象？",
+    "options": {
+      "A": "变异",
+      "B": "遗传",
+      "C": "进化",
+      "D": "选择"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1636,
+    "question": "吃馒头时越嚼越甜是因为馒头中的淀粉被分解成了：",
+    "options": {
+      "A": "葡萄糖",
+      "B": "麦芽糖",
+      "C": "蔗糖",
+      "D": "果糖"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1637,
+    "question": "喝茶后能缓解疲劳是因为茶叶中含有：",
+    "options": {
+      "A": "茶碱",
+      "B": "咖啡因",
+      "C": "可可碱",
+      "D": "茶多酚"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1638,
+    "question": "艾滋病的三个主要传播途径不包括：",
+    "options": {
+      "A": "性传播",
+      "B": "血液传播",
+      "C": "空气传播",
+      "D": "母婴传播"
+    },
+    "answer": "C",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1639,
+    "question": "大雁南飞属于动物的什么行为？",
+    "options": {
+      "A": "攻击行为",
+      "B": "繁殖行为",
+      "C": "节律行为",
+      "D": "捕食行为"
+    },
+    "answer": "C",
+    "category": "生物常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1640,
+    "question": "壁虎身体的颜色与环境色彩几乎融为一体，这属于：",
+    "options": {
+      "A": "警戒色",
+      "B": "保护色",
+      "C": "拟态",
+      "D": "伪装"
+    },
+    "answer": "B",
+    "category": "生物常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1641,
+    "question": "胡萝卜中含有的β-胡萝卜素是哪种维生素的前体？",
+    "options": {
+      "A": "维生素B",
+      "B": "维生素C",
+      "C": "维生素A",
+      "D": "维生素D"
+    },
+    "answer": "C",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1642,
+    "question": "发烧时不宜喝茶的原因是：",
+    "options": {
+      "A": "茶会降低药效",
+      "B": "茶叶所含的茶碱会提高人体温度并可能影响药物作用",
+      "C": "茶会刺激胃",
+      "D": "茶会加重咳嗽"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1643,
+    "question": "柿子不宜吃多的原因是可能产生：",
+    "options": {
+      "A": "胃结石",
+      "B": "胃柿石",
+      "C": "肾结石",
+      "D": "胆结石"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1644,
+    "question": "菠菜吃起来涩口是因为含有：",
+    "options": {
+      "A": "鞣酸",
+      "B": "草酸",
+      "C": "柠檬酸",
+      "D": "醋酸"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1645,
+    "question": "蜂蜜应该用什么温度的水冲服？",
+    "options": {
+      "A": "沸水",
+      "B": "40度以下的温开水",
+      "C": "冰水",
+      "D": "60度以上的热水"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1646,
+    "question": "肉类解冻应该用：",
+    "options": {
+      "A": "热水",
+      "B": "冷水或自然解冻",
+      "C": "微波炉高火",
+      "D": "烤箱"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1647,
+    "question": "味精的主要成分是：",
+    "options": {
+      "A": "氯化钠",
+      "B": "谷氨酸钠",
+      "C": "碳酸钠",
+      "D": "柠檬酸钠"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1648,
+    "question": "鸡蛋保存时不宜用水清洗的原因是：",
+    "options": {
+      "A": "水会使鸡蛋变质",
+      "B": "蛋壳外面有一层蛋白质膜可阻碍细菌侵入",
+      "C": "水会使蛋壳变软",
+      "D": "水会影响鸡蛋味道"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1649,
+    "question": "铜器不宜存放醋的原因是：",
+    "options": {
+      "A": "醋会腐蚀铜器",
+      "B": "两者长期接触会生成对人体有害的铜绿",
+      "C": "醋会变色",
+      "D": "醋会变味"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1650,
+    "question": "煎中药不能用铁锅的原因是：",
+    "options": {
+      "A": "铁锅导热太快",
+      "B": "中药中部分酸性或碱性药材会与铁离子反应产生副作用",
+      "C": "铁锅容易生锈",
+      "D": "铁锅会使药变黑"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1651,
+    "question": "碘被称为：",
+    "options": {
+      "A": "生命元素",
+      "B": "智慧元素",
+      "C": "健康元素",
+      "D": "活力元素"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1652,
+    "question": "衣物上的蓝墨水污迹可以用什么清洗？",
+    "options": {
+      "A": "清水",
+      "B": "牛奶",
+      "C": "醋",
+      "D": "盐水"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1653,
+    "question": "微波炉加热的原理是：",
+    "options": {
+      "A": "热传导",
+      "B": "微波使食物中的极性分子高频振动产生内能",
+      "C": "热对流",
+      "D": "热辐射"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1654,
+    "question": "金属器皿能否放入微波炉加热？",
+    "options": {
+      "A": "可以",
+      "B": "不宜",
+      "C": "必须",
+      "D": "无所谓"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1655,
+    "question": "冰箱冷冻室内不宜放置瓶装或灌装液体的原因是：",
+    "options": {
+      "A": "会结冰",
+      "B": "会有爆炸危险",
+      "C": "会变质",
+      "D": "会变色"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1656,
+    "question": "白炽灯用久会变黑是因为：",
+    "options": {
+      "A": "灯泡老化",
+      "B": "钨丝受热升华遇冷凝华",
+      "C": "灰尘积累",
+      "D": "玻璃氧化"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1657,
+    "question": "火车开动时先后退一下是为了：",
+    "options": {
+      "A": "节省燃料",
+      "B": "减小所需要克服的最大静摩擦力",
+      "C": "检查轨道",
+      "D": "提醒乘客"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1658,
+    "question": "液罐汽车罐体是圆形的原因是：",
+    "options": {
+      "A": "美观",
+      "B": "制造方便",
+      "C": "可以使震动下液体产生的冲击力造成的压力均衡分散",
+      "D": "节省材料"
+    },
+    "answer": "C",
+    "category": "生活常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1659,
+    "question": "煮熟后滚烫的鸡蛋在冷水中浸泡后更易剥壳是利用了：",
+    "options": {
+      "A": "热胀冷缩",
+      "B": "蛋壳与蛋白遇冷收缩程度不同",
+      "C": "水的润滑作用",
+      "D": "蛋白质变性"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1660,
+    "question": "自来水管出汗常常是什么的预兆？",
+    "options": {
+      "A": "晴天",
+      "B": "下雨",
+      "C": "刮风",
+      "D": "下雪"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1661,
+    "question": "长期堆煤的墙角变黑是因为：",
+    "options": {
+      "A": "煤灰污染",
+      "B": "分子不停地做无规则运动",
+      "C": "化学反应",
+      "D": "光线照射"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1662,
+    "question": "汽车轮胎上的花纹主要作用是：",
+    "options": {
+      "A": "美观",
+      "B": "增大与接触面的粗糙程度来增大摩擦",
+      "C": "减小噪音",
+      "D": "减小阻力"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1663,
+    "question": "塑料挂衣钩能紧贴墙面的原因是：",
+    "options": {
+      "A": "胶水粘住",
+      "B": "大气压强将吸盘紧压在墙上",
+      "C": "静电作用",
+      "D": "磁力作用"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1664,
+    "question": "人体最大的器官是：",
+    "options": {
+      "A": "肝脏",
+      "B": "皮肤",
+      "C": "大脑",
+      "D": "心脏"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1665,
+    "question": "人体消化道中最长的器官是：",
+    "options": {
+      "A": "胃",
+      "B": "大肠",
+      "C": "小肠",
+      "D": "食管"
+    },
+    "answer": "C",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1666,
+    "question": "含氟牙膏能有效预防：",
+    "options": {
+      "A": "牙龈炎",
+      "B": "龋齿",
+      "C": "口腔溃疡",
+      "D": "牙周炎"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1667,
+    "question": "登革热传染病可以通过什么传播？",
+    "options": {
+      "A": "空气",
+      "B": "蚊虫叮咬",
+      "C": "食物",
+      "D": "水"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1668,
+    "question": "不慎扭伤关节应该：",
+    "options": {
+      "A": "立即揉搓",
+      "B": "不应立即揉搓，否则会加速肿痛和出血",
+      "C": "立即热敷",
+      "D": "立即按摩"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1669,
+    "question": "鱼刺卡在喉咙时喝醋能否软化鱼刺？",
+    "options": {
+      "A": "能，醋可以软化鱼刺",
+      "B": "不能，反而会造成咽喉黏膜灼伤",
+      "C": "能，醋可以溶解鱼刺",
+      "D": "能，醋可以润滑喉咙"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1670,
+    "question": "处方药的简称是：",
+    "options": {
+      "A": "OTC",
+      "B": "RX",
+      "C": "RXD",
+      "D": "PTC"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1671,
+    "question": "OTC是什么药的标志？",
+    "options": {
+      "A": "处方药",
+      "B": "非处方药",
+      "C": "中药",
+      "D": "西药"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1672,
+    "question": "医用消毒酒精的浓度是：",
+    "options": {
+      "A": "65%",
+      "B": "75%",
+      "C": "85%",
+      "D": "95%"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1673,
+    "question": "小苏打呈什么性？",
+    "options": {
+      "A": "酸性",
+      "B": "弱碱性",
+      "C": "中性",
+      "D": "强碱性"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1674,
+    "question": "明矾可以用来净水的原因是：",
+    "options": {
+      "A": "明矾有杀菌作用",
+      "B": "铝离子中和泥砂胶粒负电荷使其沉淀",
+      "C": "明矾可以吸附杂质",
+      "D": "明矾可以过滤"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1675,
+    "question": "火灾逃生时应该：",
+    "options": {
+      "A": "直立奔跑",
+      "B": "用湿毛巾蒙住鼻子，匍匐撤离",
+      "C": "大声呼救",
+      "D": "乘坐电梯"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1676,
+    "question": "漂白水与洁厕精混合会产生什么？",
+    "options": {
+      "A": "氧气",
+      "B": "氯气",
+      "C": "氢气",
+      "D": "氮气"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1677,
+    "question": "衣服上染上血渍应该用什么清洗？",
+    "options": {
+      "A": "热水",
+      "B": "冷水",
+      "C": "盐水",
+      "D": "醋水"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1678,
+    "question": "遥控器采用什么进行遥控？",
+    "options": {
+      "A": "紫外线",
+      "B": "红外线",
+      "C": "无线电波",
+      "D": "微波"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1679,
+    "question": "汽车刹车灯用红色的原因是：",
+    "options": {
+      "A": "红色好看",
+      "B": "红色光波长最长、穿透力强且人眼对其敏感度高",
+      "C": "红色便宜",
+      "D": "红色代表停止"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1680,
+    "question": "轿车前边的车窗玻璃做成倾斜的原因是：",
+    "options": {
+      "A": "减小行驶阻力",
+      "B": "美观",
+      "C": "防止垂直挡风玻璃产生的影像反射到驾驶员眼中影响视觉判断",
+      "D": "节省材料"
+    },
+    "answer": "C",
+    "category": "生活常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1681,
+    "question": "水在真空中会：",
+    "options": {
+      "A": "直接结冰",
+      "B": "先沸腾后结冰",
+      "C": "直接蒸发",
+      "D": "保持液态"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1682,
+    "question": "白色污染主要是指：",
+    "options": {
+      "A": "白色粉尘污染",
+      "B": "难降解塑料垃圾污染",
+      "C": "白色烟雾污染",
+      "D": "白色废水污染"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1683,
+    "question": "铅笔的笔芯是用什么制成的？",
+    "options": {
+      "A": "铅",
+      "B": "石墨和粘土",
+      "C": "碳粉",
+      "D": "墨水"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1684,
+    "question": "24K金是指含金量在：",
+    "options": {
+      "A": "90%以上",
+      "B": "95%以上",
+      "C": "99%以上",
+      "D": "100%"
+    },
+    "answer": "C",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1685,
+    "question": "18K金的黄金含量是：",
+    "options": {
+      "A": "50%",
+      "B": "75%",
+      "C": "85%",
+      "D": "90%"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1686,
+    "question": "用汽油去除衣服上的油污是利用什么原理？",
+    "options": {
+      "A": "乳化原理",
+      "B": "溶解原理",
+      "C": "氧化原理",
+      "D": "还原原理"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1687,
+    "question": "早晨蜘蛛网上有水珠表示：",
+    "options": {
+      "A": "要下雨",
+      "B": "天气晴朗",
+      "C": "要刮风",
+      "D": "要降温"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1688,
+    "question": "下列哪个不是下雨的征兆？",
+    "options": {
+      "A": "青蛙鸣叫",
+      "B": "燕子低飞",
+      "C": "蚂蚁过马路",
+      "D": "蜘蛛结网"
+    },
+    "answer": "D",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1689,
+    "question": "人的眼睛能看到的可见光按波长从长到短排列，正确的是：",
+    "options": {
+      "A": "红、黄、绿、蓝、紫",
+      "B": "红、橙、黄、绿、青、蓝、紫",
+      "C": "紫、蓝、绿、黄、红",
+      "D": "红、绿、蓝、紫"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1690,
+    "question": "蜜蜂窝的窝眼呈什么形状？",
+    "options": {
+      "A": "圆形",
+      "B": "正六边形",
+      "C": "正方形",
+      "D": "三角形"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "简单",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1691,
+    "question": "砂锅放在湿地上容易破裂的原因是：",
+    "options": {
+      "A": "砂锅质量不好",
+      "B": "砂锅是热的不良导体，外壁因热胀冷缩使内外收缩不均匀",
+      "C": "湿地太湿",
+      "D": "砂锅太重"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  },
+  {
+    "id": 1692,
+    "question": "铁刀削水果后会变黑是因为水果含有：",
+    "options": {
+      "A": "维生素C",
+      "B": "鞣酸",
+      "C": "柠檬酸",
+      "D": "苹果酸"
+    },
+    "answer": "B",
+    "category": "生活常识",
+    "difficulty": "中等",
+    "correct_count": 0,
+    "wrong_count": 0,
+    "seen": 0,
+    "status": "normal"
+  }
+]

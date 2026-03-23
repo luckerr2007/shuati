@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>类别六 计算机职业技能测试</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="app">
+        <!-- 欢迎页面 -->
+        <div id="welcome-page" class="page active">
+            <div class="container">
+                <div class="header">
+                    <h1 class="title">亳州职业技术学院</h1>
+                    <h2 class="subtitle">2026 年分类考试招生职业技能测试</h2>
+                    <p class="category">类别六：计算机应用技术、人工智能技术应用、大数据技术、软件技术</p>
+                </div>
+                
+                <div class="info-card">
+                    <h3>考试说明</h3>
+                    <ul class="info-list">
+                        <li><span class="label">题目数量：</span>100 道选择题</li>
+                        <li><span class="label">满分分数：</span>300 分（每题 3 分）</li>
+                        <li><span class="label">考试时长：</span>90 分钟</li>
+                        <li><span class="label">难度分布：</span>简单 25% | 中等 50% | 较难 25%</li>
+                        <li><span class="label">题目来源：</span>AI智能生成（ZhipuAI/GLM-5）</li>
+                    </ul>
+                    
+                    <h4>考试内容：</h4>
+                    <ul class="content-list">
+                        <li>职业道德与素养</li>
+                        <li>心理健康</li>
+                        <li>科学基础知识（物理、化学、生物、信息科学、地理科学）</li>
+                        <li>岗位技能：
+                            <ul>
+                                <li>计算机发展历程、信息编码、数制转换</li>
+                                <li>计算机硬件与软件系统基础知识</li>
+                                <li>计算机网络及其应用</li>
+                                <li>信息安全知识及应用</li>
+                                <li>人工智能与大数据基础知识</li>
+                                <li>云计算基础知识</li>
+                                <li>操作系统基础知识及应用</li>
+                                <li>办公自动化软件的基础知识与应用</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                
+                <div class="stats-card" id="stats-card">
+                    <h3>题目统计</h3>
+                    <div class="stats-grid">
+                        <div class="stat-item">
+                            <span class="stat-value" id="total-questions">--</span>
+                            <span class="stat-label">总题数</span>
+                        </div>
+                        <div class="stat-item mastered">
+                            <span class="stat-value" id="mastered-count">--</span>
+                            <span class="stat-label">已掌握</span>
+                        </div>
+                        <div class="stat-item focus">
+                            <span class="stat-value" id="focus-count">--</span>
+                            <span class="stat-label">需加强</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="score-input-card">
+                    <h3>文化素质测试分数</h3>
+                    <div class="score-input-group">
+                        <label for="culture-score">请输入您的文化素质测试分数：</label>
+                        <input type="number" id="culture-score" min="0" max="300" value="200" placeholder="0-300分">
+                        <span class="score-hint">（满分300分）</span>
+                    </div>
+                    <p class="score-note">交卷后将计算文化素质分数 + 职业技能测试分数的综合总分，并与去年计算机应用技术分数线390分对比</p>
+                </div>
+                
+                <button class="btn btn-primary btn-large" id="start-btn">开始答题</button>
+            </div>
+        </div>
+        
+        <!-- 考试页面 -->
+        <div id="exam-page" class="page">
+            <div class="exam-container">
+                <div class="exam-header">
+                    <div class="exam-title">亳州职业技术学院 2026 年职业技能测试</div>
+                    <div class="exam-info">
+                        <span id="question-progress">题目: 1/100</span>
+                        <span id="answered-count">已答: 0</span>
+                        <span id="timer">用时: 00:00</span>
+                        <span id="difficulty-indicator">难度: 中等</span>
+                    </div>
+                </div>
+                
+                <div class="exam-content">
+                    <div class="question-panel">
+                        <div class="question-header">
+                            <span class="difficulty-tag" id="difficulty-tag">中等</span>
+                            <span class="category-tag" id="category-tag">计算机基础</span>
+                        </div>
+                        <div class="question-text" id="question-text">
+                            第 1 题：题目内容加载中...
+                        </div>
+                        
+                        <div class="options-container" id="options-container">
+                            <label class="option-item" data-option="A">
+                                <input type="radio" name="answer" value="A">
+                                <span class="option-letter">A</span>
+                                <span class="option-text">选项A</span>
+                            </label>
+                            <label class="option-item" data-option="B">
+                                <input type="radio" name="answer" value="B">
+                                <span class="option-letter">B</span>
+                                <span class="option-text">选项B</span>
+                            </label>
+                            <label class="option-item" data-option="C">
+                                <input type="radio" name="answer" value="C">
+                                <span class="option-letter">C</span>
+                                <span class="option-text">选项C</span>
+                            </label>
+                            <label class="option-item" data-option="D">
+                                <input type="radio" name="answer" value="D">
+                                <span class="option-letter">D</span>
+                                <span class="option-text">选项D</span>
+                            </label>
+                        </div>
+                    </div>
+                    
+                    <div class="nav-panel">
+                        <div class="progress-section">
+                            <h4>答题进度</h4>
+                            <div class="progress-bar">
+                                <div class="progress-fill" id="progress-fill"></div>
+                            </div>
+                            <div class="progress-text" id="progress-text">已答: 0 / 100</div>
+                        </div>
+                        
+                        <div class="nav-section">
+                            <h4>题目导航</h4>
+                            <div class="nav-grid" id="nav-grid">
+                                <!-- 动态生成 -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="exam-footer">
+                    <button class="btn btn-secondary" id="prev-btn">上一题</button>
+                    <button class="btn btn-secondary" id="next-btn">下一题</button>
+                    <button class="btn btn-danger" id="submit-btn">交卷</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 结果页面 -->
+        <div id="result-page" class="page">
+            <div class="result-container">
+                <div class="result-header">
+                    <h1 id="result-emoji">🎉</h1>
+                    <h2>答题结果</h2>
+                </div>
+                
+                <div class="result-stats">
+                    <div class="result-item">
+                        <span class="result-label">正确题数</span>
+                        <span class="result-value" id="correct-count">--</span>
+                    </div>
+                    <div class="result-item">
+                        <span class="result-label">错误题数</span>
+                        <span class="result-value" id="wrong-count">--</span>
+                    </div>
+                    <div class="result-item">
+                        <span class="result-label">职业技能测试分数</span>
+                        <span class="result-value" id="total-score">--</span>
+                    </div>
+                    <div class="result-item">
+                        <span class="result-label">正确率</span>
+                        <span class="result-value" id="accuracy">--%</span>
+                    </div>
+                    <div class="result-item">
+                        <span class="result-label">用时</span>
+                        <span class="result-value" id="time-used">--:--</span>
+                    </div>
+                    <div class="result-item">
+                        <span class="result-label">平均每题用时</span>
+                        <span class="result-value" id="avg-time">--秒</span>
+                    </div>
+                </div>
+                
+                <div class="total-score-card" id="total-score-card">
+                    <h3>综合分数计算</h3>
+                    <div class="score-breakdown">
+                        <div class="score-row">
+                            <span class="score-label">文化素质测试分数</span>
+                            <span class="score-value" id="culture-score-display">200</span>
+                        </div>
+                        <div class="score-row">
+                            <span class="score-label">职业技能测试分数</span>
+                            <span class="score-value" id="skill-score-display">--</span>
+                        </div>
+                        <div class="score-row total">
+                            <span class="score-label">综合总分</span>
+                            <span class="score-value" id="combined-score">--</span>
+                        </div>
+                    </div>
+                    <div class="score-comparison" id="score-comparison">
+                        <div class="comparison-row">
+                            <span class="comparison-label">去年分数线（计算机应用技术）</span>
+                            <span class="comparison-value">390分</span>
+                        </div>
+                        <div class="comparison-row expected">
+                            <span class="comparison-label">预期综合分数目标</span>
+                            <span class="comparison-value expected-value">430分以上</span>
+                        </div>
+                        <div class="comparison-result" id="comparison-result">
+                            <!-- 动态生成 -->
+                        </div>
+                        <div class="expected-analysis" id="expected-analysis">
+                            <!-- 动态生成预期分数分析 -->
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="result-details" id="result-details">
+                    <h3>分类正确率统计</h3>
+                    <div class="category-stats" id="category-stats">
+                        <!-- 动态生成 -->
+                    </div>
+                    
+                    <h3>难度正确率统计</h3>
+                    <div class="difficulty-stats" id="difficulty-stats">
+                        <!-- 动态生成 -->
+                    </div>
+                    
+                    <h3>薄弱知识点</h3>
+                    <div class="weak-categories" id="weak-categories">
+                        <!-- 动态生成 -->
+                    </div>
+                </div>
+                
+                <div class="result-actions">
+                    <button class="btn btn-primary" id="view-wrong-btn">查看错题</button>
+                    <button class="btn btn-secondary" id="restart-btn">重新开始</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 错题页面 -->
+        <div id="wrong-page" class="page">
+            <div class="wrong-container">
+                <div class="wrong-header">
+                    <h2>错题查看</h2>
+                    <button class="btn btn-secondary" id="back-result-btn">返回结果</button>
+                </div>
+                
+                <div class="wrong-list" id="wrong-list">
+                    <!-- 动态生成 -->
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="app.js"></script>
+</body>
+</html>

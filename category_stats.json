@@ -1,0 +1,2971 @@
+{
+  "职业道德": {
+    "total": 20,
+    "correct": 14,
+    "wrong": 6,
+    "accuracy": 0.7,
+    "weight": 1.0,
+    "group": "其他",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.5499999999999999,
+        "m": 0.7,
+        "u": 0.85
+      },
+      "trapezoidal": {
+        "a": 0.49999999999999994,
+        "b": 0.62,
+        "c": 0.7799999999999999,
+        "d": 0.8999999999999999
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.4,
+      "negative_binomial_weight": 0.3,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.6108643018548935
+    },
+    "feature_vector": [
+      0.7,
+      1.0,
+      0.30000000000000004,
+      0.5,
+      0.0,
+      0.5,
+      0.0,
+      0.6236548493681084,
+      0.7,
+      0.6108643018548935,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.3999999999999999,
+      "kurtosis": -0.9000000000000001,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.6108643018548935,
+      "fuzzy_entropy": 0.30000000000000004,
+      "classification_entropy": 0.45543215092744677
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-22T12:45:40.886066"
+  },
+  "心理健康": {
+    "total": 5,
+    "correct": 5,
+    "wrong": 0,
+    "accuracy": 1.0,
+    "weight": 0.8,
+    "group": "其他",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.85,
+        "m": 1.0,
+        "u": 1.0
+      },
+      "trapezoidal": {
+        "a": 0.8,
+        "b": 0.92,
+        "c": 1.0,
+        "d": 1.0
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.5,
+      "negative_binomial_weight": 0.25,
+      "hypergeometric_weight": 0.25,
+      "kl_divergence": 0.0,
+      "entropy": 0.0
+    },
+    "feature_vector": [
+      1.0,
+      0.8,
+      0.0,
+      0.5,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 1.0,
+      "kurtosis": 0.0,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.0,
+      "fuzzy_entropy": 0.0,
+      "classification_entropy": 0.0
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-22T12:52:40.176439"
+  },
+  "思想道德素质": {
+    "total": 5,
+    "correct": 4,
+    "wrong": 1,
+    "accuracy": 0.8,
+    "weight": 1.0,
+    "group": "其他",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.65,
+        "m": 0.8,
+        "u": 0.9500000000000001
+      },
+      "trapezoidal": {
+        "a": 0.6000000000000001,
+        "b": 0.7200000000000001,
+        "c": 0.88,
+        "d": 1.0
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.4,
+      "negative_binomial_weight": 0.3,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.5004024233381879
+    },
+    "feature_vector": [
+      0.8,
+      1.0,
+      0.19999999999999996,
+      0.5,
+      0.0,
+      0.5,
+      0.0,
+      0.5623351444188083,
+      0.8,
+      0.5004024233381879,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.6000000000000001,
+      "kurtosis": -0.5999999999999999,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.5004024233381879,
+      "fuzzy_entropy": 0.19999999999999996,
+      "classification_entropy": 0.3502012116690939
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-23T14:08:52.262810"
+  },
+  "政治素质": {
+    "total": 2,
+    "correct": 1,
+    "wrong": 1,
+    "accuracy": 0.5,
+    "weight": 1.2,
+    "group": "政治类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.3,
+        "m": 0.5,
+        "u": 0.7
+      },
+      "trapezoidal": {
+        "a": 0.25,
+        "b": 0.45,
+        "c": 0.55,
+        "d": 0.75
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.4,
+      "negative_binomial_weight": 0.3,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.693
+    },
+    "feature_vector": [
+      0.5,
+      1.2,
+      0.5,
+      0.5,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.0,
+      "kurtosis": -2.0,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.693,
+      "fuzzy_entropy": 0.5,
+      "classification_entropy": 0.35
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-22T00:00:00"
+  },
+  "法律常识": {
+    "total": 22,
+    "correct": 12,
+    "wrong": 10,
+    "accuracy": 0.5454545454545454,
+    "weight": 1.2,
+    "group": "政治类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.3954545454545454,
+        "m": 0.5454545454545454,
+        "u": 0.6954545454545454
+      },
+      "trapezoidal": {
+        "a": 0.3454545454545454,
+        "b": 0.4654545454545454,
+        "c": 0.6254545454545454,
+        "d": 0.7454545454545454
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.4,
+      "negative_binomial_weight": 0.3,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.6890092382766586
+    },
+    "feature_vector": [
+      0.5454545454545454,
+      1.2,
+      0.4545454545454546,
+      1.0,
+      0.0,
+      0.5,
+      0.0,
+      0.6829081045004717,
+      0.5454545454545454,
+      0.6890092382766586,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.09090909090909083,
+      "kurtosis": -1.3636363636363638,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.6890092382766586,
+      "fuzzy_entropy": 0.4545454545454546,
+      "classification_entropy": 0.5717773464110566
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-23T14:17:11.387338"
+  },
+  "人文常识": {
+    "total": 126,
+    "correct": 81,
+    "wrong": 45,
+    "accuracy": 0.6428571428571429,
+    "weight": 1.2,
+    "group": "文学类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.4928571428571429,
+        "m": 0.6428571428571429,
+        "u": 0.7928571428571429
+      },
+      "trapezoidal": {
+        "a": 0.4428571428571429,
+        "b": 0.562857142857143,
+        "c": 0.7228571428571429,
+        "d": 0.842857142857143
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.4,
+      "negative_binomial_weight": 0.3,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.6517565609726532
+    },
+    "feature_vector": [
+      0.6428571428571429,
+      1.2,
+      0.3571428571428571,
+      1.0,
+      0.0,
+      0.5,
+      0.0,
+      0.6486759337353328,
+      0.6428571428571429,
+      0.6517565609726532,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.2857142857142858,
+      "kurtosis": -1.0714285714285712,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.6517565609726532,
+      "fuzzy_entropy": 0.3571428571428571,
+      "classification_entropy": 0.5044497090577551
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "feature_acceleration": [
+        0.05,
+        0.05,
+        0.05,
+        0.05,
+        0.05,
+        0.05,
+        0.05,
+        0.05,
+        0.05,
+        0.05,
+        0.05,
+        0.05
+      ],
+      "boundary_threshold": 0.7
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {
+        "accuracy": 0.3,
+        "weight": 0.5
+      },
+      "sobol_total_order": {
+        "accuracy": 0.4,
+        "weight": 0.6
+      }
+    },
+    "last_updated": "2026-03-23T14:19:56.359858"
+  },
+  "历史常识": {
+    "total": 57,
+    "correct": 37,
+    "wrong": 20,
+    "accuracy": 0.6491228070175439,
+    "weight": 1.2,
+    "group": "文学类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.49912280701754386,
+        "m": 0.6491228070175439,
+        "u": 0.7991228070175439
+      },
+      "trapezoidal": {
+        "a": 0.44912280701754387,
+        "b": 0.5691228070175439,
+        "c": 0.7291228070175438,
+        "d": 0.8491228070175438
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.4,
+      "negative_binomial_weight": 0.3,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.6479879651974252
+    },
+    "feature_vector": [
+      0.6491228070175439,
+      1.2,
+      0.3508771929824561,
+      1.0,
+      0.0,
+      0.5,
+      0.0,
+      0.6517565609726532,
+      0.6491228070175439,
+      0.6479879651974252,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.29824561403508776,
+      "kurtosis": -1.0526315789473684,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.6479879651974252,
+      "fuzzy_entropy": 0.3508771929824561,
+      "classification_entropy": 0.49943257908994065
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-23T14:17:56.828336"
+  },
+  "地理常识": {
+    "total": 54,
+    "correct": 40,
+    "wrong": 14,
+    "accuracy": 0.7407407407407407,
+    "weight": 1.0,
+    "group": "文学类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.5907407407407407,
+        "m": 0.7407407407407407,
+        "u": 0.8907407407407407
+      },
+      "trapezoidal": {
+        "a": 0.5407407407407407,
+        "b": 0.6607407407407407,
+        "c": 0.8207407407407407,
+        "d": 0.9407407407407407
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.4,
+      "negative_binomial_weight": 0.3,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.5722806986018472
+    },
+    "feature_vector": [
+      0.7407407407407407,
+      1.0,
+      0.2592592592592593,
+      1.0,
+      0.0,
+      0.5,
+      0.0,
+      0.5773540489432571,
+      0.7407407407407407,
+      0.5722806986018472,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.4814814814814814,
+      "kurtosis": -0.7777777777777779,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.5722806986018472,
+      "fuzzy_entropy": 0.2592592592592593,
+      "classification_entropy": 0.41576997893055323
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-23T14:18:37.704832"
+  },
+  "安徽文化常识": {
+    "total": 65,
+    "correct": 45,
+    "wrong": 20,
+    "accuracy": 0.6923076923076923,
+    "weight": 1.2,
+    "group": "文学类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.5423076923076923,
+        "m": 0.6923076923076923,
+        "u": 0.8423076923076923
+      },
+      "trapezoidal": {
+        "a": 0.4923076923076923,
+        "b": 0.6123076923076923,
+        "c": 0.7723076923076923,
+        "d": 0.8923076923076922
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.4,
+      "negative_binomial_weight": 0.3,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.6172417695303416
+    },
+    "feature_vector": [
+      0.6923076923076923,
+      1.2,
+      0.3076923076923077,
+      1.0,
+      0.0,
+      0.5,
+      0.0,
+      0.6210863743552452,
+      0.6923076923076923,
+      0.6172417695303416,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.3846153846153846,
+      "kurtosis": -0.9230769230769231,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.6172417695303416,
+      "fuzzy_entropy": 0.3076923076923077,
+      "classification_entropy": 0.46246703861132465
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-23T14:19:58.563765"
+  },
+  "科学基础-物理": {
+    "total": 3,
+    "correct": 3,
+    "wrong": 0,
+    "accuracy": 1.0,
+    "weight": 0.8,
+    "group": "科技类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.85,
+        "m": 1.0,
+        "u": 1.0
+      },
+      "trapezoidal": {
+        "a": 0.8,
+        "b": 0.92,
+        "c": 1.0,
+        "d": 1.0
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.5,
+      "negative_binomial_weight": 0.25,
+      "hypergeometric_weight": 0.25,
+      "kl_divergence": 0.0,
+      "entropy": 0.0
+    },
+    "feature_vector": [
+      1.0,
+      0.8,
+      0.0,
+      0.8,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 1.0,
+      "kurtosis": 0.0,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.0,
+      "fuzzy_entropy": 0.0,
+      "classification_entropy": 0.0
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-23T14:12:59.919144"
+  },
+  "科学基础-化学": {
+    "total": 4,
+    "correct": 4,
+    "wrong": 0,
+    "accuracy": 1.0,
+    "weight": 0.8,
+    "group": "科技类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.85,
+        "m": 1.0,
+        "u": 1.0
+      },
+      "trapezoidal": {
+        "a": 0.8,
+        "b": 0.92,
+        "c": 1.0,
+        "d": 1.0
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.5,
+      "negative_binomial_weight": 0.25,
+      "hypergeometric_weight": 0.25,
+      "kl_divergence": 0.0,
+      "entropy": 0.0
+    },
+    "feature_vector": [
+      1.0,
+      0.8,
+      0.0,
+      0.8,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 1.0,
+      "kurtosis": 0.0,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.0,
+      "fuzzy_entropy": 0.0,
+      "classification_entropy": 0.0
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-23T14:18:14.516633"
+  },
+  "科学基础-生物": {
+    "total": 3,
+    "correct": 3,
+    "wrong": 0,
+    "accuracy": 1.0,
+    "weight": 0.8,
+    "group": "科技类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.85,
+        "m": 1.0,
+        "u": 1.0
+      },
+      "trapezoidal": {
+        "a": 0.8,
+        "b": 0.92,
+        "c": 1.0,
+        "d": 1.0
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.5,
+      "negative_binomial_weight": 0.25,
+      "hypergeometric_weight": 0.25,
+      "kl_divergence": 0.0,
+      "entropy": 0.0
+    },
+    "feature_vector": [
+      1.0,
+      0.8,
+      0.0,
+      0.8,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 1.0,
+      "kurtosis": 0.0,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.0,
+      "fuzzy_entropy": 0.0,
+      "classification_entropy": 0.0
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-23T14:18:12.535378"
+  },
+  "科学基础-地理": {
+    "total": 5,
+    "correct": 2,
+    "wrong": 3,
+    "accuracy": 0.4,
+    "weight": 1.5,
+    "group": "科技类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.25,
+        "m": 0.4,
+        "u": 0.55
+      },
+      "trapezoidal": {
+        "a": 0.2,
+        "b": 0.35,
+        "c": 0.45,
+        "d": 0.6
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.4,
+      "negative_binomial_weight": 0.3,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.673
+    },
+    "feature_vector": [
+      0.4,
+      1.5,
+      0.6,
+      0.6,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.45,
+      "kurtosis": -1.8,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.673,
+      "fuzzy_entropy": 0.55,
+      "classification_entropy": 0.4
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-22T00:00:00"
+  },
+  "科学基础-数制": {
+    "total": 6,
+    "correct": 4,
+    "wrong": 2,
+    "accuracy": 0.6666666666666666,
+    "weight": 1.2,
+    "group": "专业类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.5166666666666666,
+        "m": 0.6666666666666666,
+        "u": 0.8166666666666667
+      },
+      "trapezoidal": {
+        "a": 0.4666666666666666,
+        "b": 0.5866666666666667,
+        "c": 0.7466666666666666,
+        "d": 0.8666666666666667
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.4,
+      "negative_binomial_weight": 0.3,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.6365141680948128
+    },
+    "feature_vector": [
+      0.6666666666666666,
+      1.2,
+      0.33333333333333337,
+      1.2,
+      0.0,
+      0.5,
+      0.0,
+      0.6730116668092565,
+      0.6666666666666666,
+      0.6365141680948128,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.33333333333333326,
+      "kurtosis": -1.0,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.6365141680948128,
+      "fuzzy_entropy": 0.33333333333333337,
+      "classification_entropy": 0.48492375071407307
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-23T14:08:32.949117"
+  },
+  "科学基础-编码": {
+    "total": 5,
+    "correct": 4,
+    "wrong": 1,
+    "accuracy": 0.8,
+    "weight": 1.0,
+    "group": "专业类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.65,
+        "m": 0.8,
+        "u": 0.9500000000000001
+      },
+      "trapezoidal": {
+        "a": 0.6000000000000001,
+        "b": 0.7200000000000001,
+        "c": 0.88,
+        "d": 1.0
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.4,
+      "negative_binomial_weight": 0.3,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.5004024233381879
+    },
+    "feature_vector": [
+      0.8,
+      1.0,
+      0.19999999999999996,
+      1.2,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.8,
+      0.5004024233381879,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.6000000000000001,
+      "kurtosis": -0.5999999999999999,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.5004024233381879,
+      "fuzzy_entropy": 0.19999999999999996,
+      "classification_entropy": 0.3502012116690939
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-22T11:25:04.445892"
+  },
+  "科学基础-计算机发展": {
+    "total": 6,
+    "correct": 5,
+    "wrong": 1,
+    "accuracy": 0.8333333333333334,
+    "weight": 0.9,
+    "group": "专业类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.6833333333333333,
+        "m": 0.8333333333333334,
+        "u": 0.9833333333333334
+      },
+      "trapezoidal": {
+        "a": 0.6333333333333333,
+        "b": 0.7533333333333334,
+        "c": 0.9133333333333333,
+        "d": 1.0
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.5,
+      "negative_binomial_weight": 0.25,
+      "hypergeometric_weight": 0.25,
+      "kl_divergence": 0.0,
+      "entropy": 0.4505612086663046
+    },
+    "feature_vector": [
+      0.8333333333333334,
+      0.9,
+      0.16666666666666663,
+      1.2,
+      0.0,
+      0.5,
+      0.0,
+      0.5004024233381879,
+      0.8333333333333334,
+      0.4505612086663046,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.6666666666666667,
+      "kurtosis": -0.5,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.4505612086663046,
+      "fuzzy_entropy": 0.16666666666666663,
+      "classification_entropy": 0.3086139376664856
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-23T14:08:41.961111"
+  },
+  "计算机基础-硬件": {
+    "total": 20,
+    "correct": 16,
+    "wrong": 4,
+    "accuracy": 0.8,
+    "weight": 1.0,
+    "group": "专业类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.65,
+        "m": 0.8,
+        "u": 0.9500000000000001
+      },
+      "trapezoidal": {
+        "a": 0.6000000000000001,
+        "b": 0.7200000000000001,
+        "c": 0.88,
+        "d": 1.0
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.4,
+      "negative_binomial_weight": 0.3,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.5004024233381879
+    },
+    "feature_vector": [
+      0.8,
+      1.0,
+      0.19999999999999996,
+      1.2,
+      0.0,
+      0.5,
+      0.0,
+      0.43616232518534426,
+      0.8,
+      0.5004024233381879,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.6000000000000001,
+      "kurtosis": -0.5999999999999999,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.5004024233381879,
+      "fuzzy_entropy": 0.19999999999999996,
+      "classification_entropy": 0.3502012116690939
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-23T14:12:33.674397"
+  },
+  "计算机基础-软件": {
+    "total": 8,
+    "correct": 5,
+    "wrong": 3,
+    "accuracy": 0.625,
+    "weight": 1.2,
+    "group": "专业类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.475,
+        "m": 0.625,
+        "u": 0.775
+      },
+      "trapezoidal": {
+        "a": 0.425,
+        "b": 0.545,
+        "c": 0.705,
+        "d": 0.825
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.4,
+      "negative_binomial_weight": 0.3,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.6615632379579821
+    },
+    "feature_vector": [
+      0.625,
+      1.2,
+      0.375,
+      1.2,
+      0.0,
+      0.5,
+      0.0,
+      0.681,
+      0.625,
+      0.6615632379579821,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.25,
+      "kurtosis": -1.125,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.6615632379579821,
+      "fuzzy_entropy": 0.375,
+      "classification_entropy": 0.518281618978991
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-22T12:45:29.735801"
+  },
+  "计算机基础-安全": {
+    "total": 7,
+    "correct": 5,
+    "wrong": 2,
+    "accuracy": 0.7142857142857143,
+    "weight": 1.0,
+    "group": "专业类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.5642857142857143,
+        "m": 0.7142857142857143,
+        "u": 0.8642857142857143
+      },
+      "trapezoidal": {
+        "a": 0.5142857142857142,
+        "b": 0.6342857142857143,
+        "c": 0.7942857142857143,
+        "d": 0.9142857142857144
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.4,
+      "negative_binomial_weight": 0.3,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.5982695883852572
+    },
+    "feature_vector": [
+      0.7142857142857143,
+      1.0,
+      0.2857142857142857,
+      1.2,
+      0.0,
+      0.5,
+      0.0,
+      0.6365141680948128,
+      0.7142857142857143,
+      0.5982695883852572,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.4285714285714286,
+      "kurtosis": -0.8571428571428571,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.5982695883852572,
+      "fuzzy_entropy": 0.2857142857142857,
+      "classification_entropy": 0.44199193704977147
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-23T14:14:17.154565"
+  },
+  "计算机网络": {
+    "total": 6,
+    "correct": 4,
+    "wrong": 2,
+    "accuracy": 0.6666666666666666,
+    "weight": 1.2,
+    "group": "专业类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.5166666666666666,
+        "m": 0.6666666666666666,
+        "u": 0.8166666666666667
+      },
+      "trapezoidal": {
+        "a": 0.4666666666666666,
+        "b": 0.5866666666666667,
+        "c": 0.7466666666666666,
+        "d": 0.8666666666666667
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.4,
+      "negative_binomial_weight": 0.3,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.6365141680948128
+    },
+    "feature_vector": [
+      0.6666666666666666,
+      1.2,
+      0.33333333333333337,
+      1.2,
+      0.0,
+      0.5,
+      0.0,
+      0.673,
+      0.6666666666666666,
+      0.6365141680948128,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.33333333333333326,
+      "kurtosis": -1.0,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.6365141680948128,
+      "fuzzy_entropy": 0.33333333333333337,
+      "classification_entropy": 0.48492375071407307
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-22T12:46:51.669959"
+  },
+  "信息安全": {
+    "total": 27,
+    "correct": 25,
+    "wrong": 2,
+    "accuracy": 0.9259259259259259,
+    "weight": 0.8,
+    "group": "专业类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.7759259259259259,
+        "m": 0.9259259259259259,
+        "u": 1.0
+      },
+      "trapezoidal": {
+        "a": 0.7259259259259259,
+        "b": 0.845925925925926,
+        "c": 1.0,
+        "d": 1.0
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.5,
+      "negative_binomial_weight": 0.25,
+      "hypergeometric_weight": 0.25,
+      "kl_divergence": 0.0,
+      "entropy": 0.2640520516256287
+    },
+    "feature_vector": [
+      0.9259259259259259,
+      0.8,
+      0.07407407407407407,
+      1.2,
+      0.0,
+      0.5,
+      0.0,
+      0.271189372841844,
+      0.9259259259259259,
+      0.2640520516256287,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.8518518518518519,
+      "kurtosis": -0.22222222222222232,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.2640520516256287,
+      "fuzzy_entropy": 0.07407407407407407,
+      "classification_entropy": 0.1690630628498514
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-23T14:13:48.985560"
+  },
+  "云计算": {
+    "total": 6,
+    "correct": 5,
+    "wrong": 1,
+    "accuracy": 0.8333333333333334,
+    "weight": 0.9,
+    "group": "专业类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.6833333333333333,
+        "m": 0.8333333333333334,
+        "u": 0.9833333333333334
+      },
+      "trapezoidal": {
+        "a": 0.6333333333333333,
+        "b": 0.7533333333333334,
+        "c": 0.9133333333333333,
+        "d": 1.0
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.5,
+      "negative_binomial_weight": 0.25,
+      "hypergeometric_weight": 0.25,
+      "kl_divergence": 0.0,
+      "entropy": 0.4505612086663046
+    },
+    "feature_vector": [
+      0.8333333333333334,
+      0.9,
+      0.16666666666666663,
+      1.2,
+      0.0,
+      0.5,
+      0.0,
+      0.5004024233381879,
+      0.8333333333333334,
+      0.4505612086663046,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.6666666666666667,
+      "kurtosis": -0.5,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.4505612086663046,
+      "fuzzy_entropy": 0.16666666666666663,
+      "classification_entropy": 0.3086139376664856
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-23T14:20:00.205095"
+  },
+  "人工智能": {
+    "total": 7,
+    "correct": 6,
+    "wrong": 1,
+    "accuracy": 0.8571428571428571,
+    "weight": 0.9,
+    "group": "专业类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.7071428571428571,
+        "m": 0.8571428571428571,
+        "u": 1.0
+      },
+      "trapezoidal": {
+        "a": 0.657142857142857,
+        "b": 0.7771428571428571,
+        "c": 0.937142857142857,
+        "d": 1.0
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.5,
+      "negative_binomial_weight": 0.25,
+      "hypergeometric_weight": 0.25,
+      "kl_divergence": 0.0,
+      "entropy": 0.4101163180884091
+    },
+    "feature_vector": [
+      0.8571428571428571,
+      0.9,
+      0.1428571428571429,
+      1.2,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.8571428571428571,
+      0.4101163180884091,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.7142857142857142,
+      "kurtosis": -0.4285714285714288,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.4101163180884091,
+      "fuzzy_entropy": 0.1428571428571429,
+      "classification_entropy": 0.276486730472776
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-22T12:52:00.887633"
+  },
+  "大数据": {
+    "total": 5,
+    "correct": 4,
+    "wrong": 1,
+    "accuracy": 0.8,
+    "weight": 1.0,
+    "group": "专业类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.68,
+        "m": 0.8,
+        "u": 0.92
+      },
+      "trapezoidal": {
+        "a": 0.63,
+        "b": 0.75,
+        "c": 0.85,
+        "d": 0.95
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.4,
+      "negative_binomial_weight": 0.3,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.5
+    },
+    "feature_vector": [
+      0.8,
+      1.0,
+      0.2,
+      0.2,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": -0.45,
+      "kurtosis": -0.8,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.5,
+      "fuzzy_entropy": 0.35,
+      "classification_entropy": 0.22
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-22T00:00:00"
+  },
+  "操作系统": {
+    "total": 27,
+    "correct": 19,
+    "wrong": 8,
+    "accuracy": 0.7037037037037037,
+    "weight": 1.0,
+    "group": "专业类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.5537037037037037,
+        "m": 0.7037037037037037,
+        "u": 0.8537037037037037
+      },
+      "trapezoidal": {
+        "a": 0.5037037037037038,
+        "b": 0.6237037037037038,
+        "c": 0.7837037037037037,
+        "d": 0.9037037037037037
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.4,
+      "negative_binomial_weight": 0.3,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.6076934236709566
+    },
+    "feature_vector": [
+      0.7037037037037037,
+      1.0,
+      0.2962962962962963,
+      1.2,
+      0.0,
+      0.5,
+      0.0,
+      0.6172417695303416,
+      0.7037037037037037,
+      0.6076934236709566,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.40740740740740744,
+      "kurtosis": -0.8888888888888888,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.6076934236709566,
+      "fuzzy_entropy": 0.2962962962962963,
+      "classification_entropy": 0.45199485998362643
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-23T14:14:21.335731"
+  },
+  "办公软件": {
+    "total": 5,
+    "correct": 4,
+    "wrong": 1,
+    "accuracy": 0.8,
+    "weight": 1.0,
+    "group": "专业类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.65,
+        "m": 0.8,
+        "u": 0.9500000000000001
+      },
+      "trapezoidal": {
+        "a": 0.6000000000000001,
+        "b": 0.7200000000000001,
+        "c": 0.88,
+        "d": 1.0
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.4,
+      "negative_binomial_weight": 0.3,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.5004024233381879
+    },
+    "feature_vector": [
+      0.8,
+      1.0,
+      0.19999999999999996,
+      1.2,
+      0.0,
+      0.5,
+      0.0,
+      0.5623351444188083,
+      0.8,
+      0.5004024233381879,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.6000000000000001,
+      "kurtosis": -0.5999999999999999,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.5004024233381879,
+      "fuzzy_entropy": 0.19999999999999996,
+      "classification_entropy": 0.3502012116690939
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-23T14:19:31.520232"
+  },
+  "程序设计基础": {
+    "total": 6,
+    "correct": 4,
+    "wrong": 2,
+    "accuracy": 0.6666666666666666,
+    "weight": 1.2,
+    "group": "专业类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.5166666666666666,
+        "m": 0.6666666666666666,
+        "u": 0.8166666666666667
+      },
+      "trapezoidal": {
+        "a": 0.4666666666666666,
+        "b": 0.5866666666666667,
+        "c": 0.7466666666666666,
+        "d": 0.8666666666666667
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.4,
+      "negative_binomial_weight": 0.3,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.6365141680948128
+    },
+    "feature_vector": [
+      0.6666666666666666,
+      1.2,
+      0.33333333333333337,
+      1.2,
+      0.0,
+      0.5,
+      0.0,
+      0.5,
+      0.6666666666666666,
+      0.6365141680948128,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.33333333333333326,
+      "kurtosis": -1.0,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.6365141680948128,
+      "fuzzy_entropy": 0.33333333333333337,
+      "classification_entropy": 0.48492375071407307
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-22T11:29:37.161082"
+  },
+  "编程语言": {
+    "total": 14,
+    "correct": 9,
+    "wrong": 5,
+    "accuracy": 0.6428571428571429,
+    "weight": 1.2,
+    "group": "专业类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.4928571428571429,
+        "m": 0.6428571428571429,
+        "u": 0.7928571428571429
+      },
+      "trapezoidal": {
+        "a": 0.4428571428571429,
+        "b": 0.562857142857143,
+        "c": 0.7228571428571429,
+        "d": 0.842857142857143
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.4,
+      "negative_binomial_weight": 0.3,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.6517565609726532
+    },
+    "feature_vector": [
+      0.6428571428571429,
+      1.2,
+      0.3571428571428571,
+      1.2,
+      0.0,
+      0.5,
+      0.0,
+      0.666278442214676,
+      0.6428571428571429,
+      0.6517565609726532,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.2857142857142858,
+      "kurtosis": -1.0714285714285712,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.6517565609726532,
+      "fuzzy_entropy": 0.3571428571428571,
+      "classification_entropy": 0.5044497090577551
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-23T14:09:23.835037"
+  },
+  "数据库": {
+    "total": 18,
+    "correct": 11,
+    "wrong": 7,
+    "accuracy": 0.6111111111111112,
+    "weight": 1.2,
+    "group": "专业类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.46111111111111114,
+        "m": 0.6111111111111112,
+        "u": 0.7611111111111112
+      },
+      "trapezoidal": {
+        "a": 0.41111111111111115,
+        "b": 0.5311111111111112,
+        "c": 0.6911111111111111,
+        "d": 0.8111111111111111
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.4,
+      "negative_binomial_weight": 0.3,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.6682484774645385
+    },
+    "feature_vector": [
+      0.6111111111111112,
+      1.2,
+      0.38888888888888884,
+      1.2,
+      0.0,
+      0.5,
+      0.0,
+      0.6774944042487072,
+      0.6111111111111112,
+      0.6682484774645385,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.22222222222222232,
+      "kurtosis": -1.1666666666666665,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.6682484774645385,
+      "fuzzy_entropy": 0.38888888888888884,
+      "classification_entropy": 0.5285686831767137
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-22T12:53:28.704788"
+  },
+  "计算机基础": {
+    "total": 41,
+    "correct": 23,
+    "wrong": 18,
+    "accuracy": 0.5609756097560976,
+    "weight": 1.2,
+    "group": "专业类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.4109756097560976,
+        "m": 0.5609756097560976,
+        "u": 0.7109756097560976
+      },
+      "trapezoidal": {
+        "a": 0.3609756097560976,
+        "b": 0.4809756097560976,
+        "c": 0.6409756097560976,
+        "d": 0.7609756097560976
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.4,
+      "negative_binomial_weight": 0.3,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.6856925882481759
+    },
+    "feature_vector": [
+      0.5609756097560976,
+      1.2,
+      0.4390243902439024,
+      1.2,
+      0.0,
+      0.5,
+      0.0,
+      0.6818546085307834,
+      0.5609756097560976,
+      0.6856925882481759,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.12195121951219523,
+      "kurtosis": -1.3170731707317072,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.6856925882481759,
+      "fuzzy_entropy": 0.4390243902439024,
+      "classification_entropy": 0.5623584892460392
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-23T14:20:03.300885"
+  },
+  "科技常识": {
+    "total": 3,
+    "correct": 2,
+    "wrong": 1,
+    "accuracy": 0.6666666666666666,
+    "weight": 1.2,
+    "group": "科技类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.5166666666666666,
+        "m": 0.6666666666666666,
+        "u": 0.8166666666666667
+      },
+      "trapezoidal": {
+        "a": 0.4666666666666666,
+        "b": 0.5866666666666667,
+        "c": 0.7466666666666666,
+        "d": 0.8666666666666667
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.4,
+      "negative_binomial_weight": 0.3,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.6365141680948128
+    },
+    "feature_vector": [
+      0.6666666666666666,
+      1.2,
+      0.33333333333333337,
+      0.8,
+      0.0,
+      0.5,
+      0.0,
+      0.6931471803599453,
+      0.6666666666666666,
+      0.6365141680948128,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 0.33333333333333326,
+      "kurtosis": -1.0,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.6365141680948128,
+      "fuzzy_entropy": 0.33333333333333337,
+      "classification_entropy": 0.48492375071407307
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-23T14:09:29.800957"
+  },
+  "政治常识": {
+    "total": 3,
+    "correct": 3,
+    "wrong": 0,
+    "accuracy": 1.0,
+    "weight": 0.8,
+    "group": "政治类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.85,
+        "m": 1.0,
+        "u": 1.0
+      },
+      "trapezoidal": {
+        "a": 0.8,
+        "b": 0.92,
+        "c": 1.0,
+        "d": 1.0
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.5,
+      "negative_binomial_weight": 0.25,
+      "hypergeometric_weight": 0.25,
+      "kl_divergence": 0.0,
+      "entropy": 0.0
+    },
+    "feature_vector": [
+      1.0,
+      0.8,
+      0.0,
+      1.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": 1.0,
+      "kurtosis": 0.0,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.0,
+      "fuzzy_entropy": 0.0,
+      "classification_entropy": 0.0
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-22T11:20:21.487364"
+  },
+  "网络基础": {
+    "total": 16,
+    "correct": 6,
+    "wrong": 10,
+    "accuracy": 0.375,
+    "weight": 1.5,
+    "group": "专业类",
+    "fuzzy_membership": {
+      "triangular": {
+        "l": 0.225,
+        "m": 0.375,
+        "u": 0.525
+      },
+      "trapezoidal": {
+        "a": 0.175,
+        "b": 0.295,
+        "c": 0.455,
+        "d": 0.575
+      },
+      "fusion_weight": 0.5
+    },
+    "probability_params": {
+      "multinomial_weight": 0.3,
+      "negative_binomial_weight": 0.4,
+      "hypergeometric_weight": 0.3,
+      "kl_divergence": 0.0,
+      "entropy": 0.6615632379579821
+    },
+    "feature_vector": [
+      0.375,
+      1.5,
+      0.625,
+      1.2,
+      0.0,
+      0.5,
+      0.0,
+      0.6730116668092565,
+      0.375,
+      0.6615632379579821,
+      0.0,
+      0.0
+    ],
+    "higher_order_moments": {
+      "skewness": -0.25,
+      "kurtosis": -1.125,
+      "cross_moment": 0.0
+    },
+    "entropy_metrics": {
+      "shannon_entropy": 0.6615632379579821,
+      "fuzzy_entropy": 0.375,
+      "classification_entropy": 0.518281618978991
+    },
+    "dynamic_state": {
+      "feature_velocity": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "feature_acceleration": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "boundary_threshold": 0.5
+    },
+    "sensitivity_indices": {
+      "sobol_first_order": {},
+      "sobol_total_order": {}
+    },
+    "last_updated": "2026-03-23T14:11:32.008373"
+  },
+  "_metadata": {
+    "version": "2.0",
+    "feature_dimensions": 12,
+    "feature_names": [
+      "accuracy",
+      "weight",
+      "wrong_rate",
+      "difficulty_factor",
+      "time_factor",
+      "base_score",
+      "momentum",
+      "entropy_score",
+      "fuzzy_score",
+      "probability_score",
+      "dynamic_score",
+      "sensitivity_score"
+    ],
+    "group_weights": {
+      "文学类": 1.0,
+      "专业类": 1.2,
+      "政治类": 1.0,
+      "科技类": 0.8,
+      "其他": 0.5
+    },
+    "last_computed": "2026-03-22T00:00:00"
+  }
+}
